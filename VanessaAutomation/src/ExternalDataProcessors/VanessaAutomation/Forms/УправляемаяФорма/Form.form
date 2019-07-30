@@ -6046,6 +6046,36 @@
               <representation>Auto</representation>
             </extInfo>
           </items>
+          <items xsi:type="form:Button">
+            <name>ОткрытьФормуДымовыхТестов</name>
+            <id>2060</id>
+            <visible>true</visible>
+            <enabled>true</enabled>
+            <userVisible>
+              <common>true</common>
+            </userVisible>
+            <extendedTooltip>
+              <name>ОткрытьФормуДымовыхТестовРасширеннаяПодсказка</name>
+              <id>2061</id>
+              <visible>true</visible>
+              <enabled>true</enabled>
+              <userVisible>
+                <common>true</common>
+              </userVisible>
+              <type>Label</type>
+              <autoMaxWidth>true</autoMaxWidth>
+              <autoMaxHeight>true</autoMaxHeight>
+              <extInfo xsi:type="form:LabelDecorationExtInfo">
+                <horizontalAlign>Left</horizontalAlign>
+              </extInfo>
+            </extendedTooltip>
+            <commandName>Form.Command.ОткрытьФормуДымовыхТестов</commandName>
+            <representation>Auto</representation>
+            <autoMaxWidth>true</autoMaxWidth>
+            <autoMaxHeight>true</autoMaxHeight>
+            <placementArea>UserCmds</placementArea>
+            <representationInContextMenu>Auto</representationInContextMenu>
+          </items>
           <visible>true</visible>
           <enabled>true</enabled>
           <userVisible>
@@ -27876,7 +27906,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.VanessaAutomation</types>
+      <types>ExternalDataProcessor.VanessaAutomation</types>
     </valueType>
     <view>
       <common>true</common>
@@ -34320,6 +34350,23 @@
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>Тест</name>
+      </handler>
+    </action>
+    <currentRowUse>Auto</currentRowUse>
+  </formCommands>
+  <formCommands>
+    <name>ОткрытьФормуДымовыхТестов</name>
+    <title>
+      <key>ru</key>
+      <value>Открыть форму дымовых тестов</value>
+    </title>
+    <id>81</id>
+    <use>
+      <common>true</common>
+    </use>
+    <action xsi:type="form:FormCommandHandlerContainer">
+      <handler>
+        <name>ОткрытьФормуДымовыхТестов</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
