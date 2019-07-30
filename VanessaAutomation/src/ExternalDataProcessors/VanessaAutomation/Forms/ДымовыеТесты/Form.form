@@ -264,210 +264,6 @@
       </extInfo>
     </items>
     <items xsi:type="form:FormField">
-      <name>ДеревоОбъектовМетаданныхДТОткрытьФорму</name>
-      <id>54</id>
-      <title>
-        <key>ru</key>
-        <value>О</value>
-      </title>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>ДеревоОбъектовМетаданных.ДТОткрытьФорму</segments>
-      </dataPath>
-      <toolTip>
-        <key>ru</key>
-        <value>Открытие формы объекта</value>
-      </toolTip>
-      <extendedTooltip>
-        <name>ДеревоОбъектовМетаданныхДТОткрытьФормуРасширеннаяПодсказка</name>
-        <id>56</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ДеревоОбъектовМетаданныхДТОткрытьФормуКонтекстноеМеню</name>
-        <id>55</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>CheckBoxField</type>
-      <editMode>Enter</editMode>
-      <showInHeader>true</showInHeader>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
-    </items>
-    <items xsi:type="form:FormField">
-      <name>ДеревоОбъектовМетаданныхДтЗаписьНового</name>
-      <id>60</id>
-      <title>
-        <key>ru</key>
-        <value>ЗН</value>
-      </title>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>ДеревоОбъектовМетаданных.ДтЗаписьНового</segments>
-      </dataPath>
-      <toolTip>
-        <key>ru</key>
-        <value>Запись нового объекта</value>
-      </toolTip>
-      <extendedTooltip>
-        <name>ДеревоОбъектовМетаданныхДтЗаписьНовогоРасширеннаяПодсказка</name>
-        <id>62</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ДеревоОбъектовМетаданныхДтЗаписьНовогоКонтекстноеМеню</name>
-        <id>61</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>CheckBoxField</type>
-      <editMode>Enter</editMode>
-      <showInHeader>true</showInHeader>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
-    </items>
-    <items xsi:type="form:FormField">
-      <name>ДеревоОбъектовМетаданныхДТЗаписьСуществующего</name>
-      <id>63</id>
-      <title>
-        <key>ru</key>
-        <value>ЗС</value>
-      </title>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>ДеревоОбъектовМетаданных.ДТЗаписьСуществующего</segments>
-      </dataPath>
-      <toolTip>
-        <key>ru</key>
-        <value>Запись существующего объекта</value>
-      </toolTip>
-      <extendedTooltip>
-        <name>ДеревоОбъектовМетаданныхДТЗаписьСуществующегоРасширеннаяПодсказка</name>
-        <id>65</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ДеревоОбъектовМетаданныхДТЗаписьСуществующегоКонтекстноеМеню</name>
-        <id>64</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>CheckBoxField</type>
-      <editMode>Enter</editMode>
-      <showInHeader>true</showInHeader>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
-    </items>
-    <items xsi:type="form:FormField">
-      <name>ДеревоОбъектовМетаданныхДТВводНаОсновании</name>
-      <id>57</id>
-      <title>
-        <key>ru</key>
-        <value>В</value>
-      </title>
-      <visible>true</visible>
-      <enabled>true</enabled>
-      <userVisible>
-        <common>true</common>
-      </userVisible>
-      <dataPath xsi:type="form:DataPath">
-        <segments>ДеревоОбъектовМетаданных.ДТВводНаОсновании</segments>
-      </dataPath>
-      <toolTip>
-        <key>ru</key>
-        <value>Ввод на основании</value>
-      </toolTip>
-      <extendedTooltip>
-        <name>ДеревоОбъектовМетаданныхДТВводНаОснованииРасширеннаяПодсказка</name>
-        <id>59</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <type>Label</type>
-        <autoMaxWidth>true</autoMaxWidth>
-        <autoMaxHeight>true</autoMaxHeight>
-        <extInfo xsi:type="form:LabelDecorationExtInfo">
-          <horizontalAlign>Left</horizontalAlign>
-        </extInfo>
-      </extendedTooltip>
-      <contextMenu>
-        <name>ДеревоОбъектовМетаданныхДТВводНаОснованииКонтекстноеМеню</name>
-        <id>58</id>
-        <visible>true</visible>
-        <enabled>true</enabled>
-        <userVisible>
-          <common>true</common>
-        </userVisible>
-        <autoFill>true</autoFill>
-      </contextMenu>
-      <type>CheckBoxField</type>
-      <editMode>Enter</editMode>
-      <showInHeader>true</showInHeader>
-      <headerHorizontalAlign>Left</headerHorizontalAlign>
-      <showInFooter>true</showInFooter>
-      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
-    </items>
-    <items xsi:type="form:FormField">
       <name>ДеревоОбъектовМетаданныхЭтоОбъектМетаданных</name>
       <id>29</id>
       <visible>true</visible>
@@ -515,6 +311,223 @@
       <headerHorizontalAlign>Left</headerHorizontalAlign>
       <showInFooter>true</showInFooter>
       <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+    </items>
+    <items xsi:type="form:FormGroup">
+      <name>ДеревоОбъектовМетаданныхСценарии</name>
+      <id>94</id>
+      <items xsi:type="form:FormField">
+        <name>ДеревоОбъектовМетаданныхДТОткрытьФорму</name>
+        <id>54</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <dataPath xsi:type="form:DataPath">
+          <segments>ДеревоОбъектовМетаданных.СценарийОткрытьФорму</segments>
+        </dataPath>
+        <toolTip>
+          <key>ru</key>
+          <value>Открытие формы объекта</value>
+        </toolTip>
+        <extendedTooltip>
+          <name>ДеревоОбъектовМетаданныхДТОткрытьФормуРасширеннаяПодсказка</name>
+          <id>56</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <type>Label</type>
+          <autoMaxWidth>true</autoMaxWidth>
+          <autoMaxHeight>true</autoMaxHeight>
+          <extInfo xsi:type="form:LabelDecorationExtInfo">
+            <horizontalAlign>Left</horizontalAlign>
+          </extInfo>
+        </extendedTooltip>
+        <contextMenu>
+          <name>ДеревоОбъектовМетаданныхДТОткрытьФормуКонтекстноеМеню</name>
+          <id>55</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <autoFill>true</autoFill>
+        </contextMenu>
+        <type>CheckBoxField</type>
+        <editMode>Enter</editMode>
+        <showInHeader>true</showInHeader>
+        <headerHorizontalAlign>Left</headerHorizontalAlign>
+        <showInFooter>true</showInFooter>
+        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+      </items>
+      <items xsi:type="form:FormField">
+        <name>ДеревоОбъектовМетаданныхДтЗаписьНового</name>
+        <id>60</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <dataPath xsi:type="form:DataPath">
+          <segments>ДеревоОбъектовМетаданных.СценарийЗаписьНового</segments>
+        </dataPath>
+        <toolTip>
+          <key>ru</key>
+          <value>Запись нового объекта</value>
+        </toolTip>
+        <extendedTooltip>
+          <name>ДеревоОбъектовМетаданныхДтЗаписьНовогоРасширеннаяПодсказка</name>
+          <id>62</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <type>Label</type>
+          <autoMaxWidth>true</autoMaxWidth>
+          <autoMaxHeight>true</autoMaxHeight>
+          <extInfo xsi:type="form:LabelDecorationExtInfo">
+            <horizontalAlign>Left</horizontalAlign>
+          </extInfo>
+        </extendedTooltip>
+        <contextMenu>
+          <name>ДеревоОбъектовМетаданныхДтЗаписьНовогоКонтекстноеМеню</name>
+          <id>61</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <autoFill>true</autoFill>
+        </contextMenu>
+        <type>CheckBoxField</type>
+        <editMode>Enter</editMode>
+        <showInHeader>true</showInHeader>
+        <headerHorizontalAlign>Left</headerHorizontalAlign>
+        <showInFooter>true</showInFooter>
+        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+      </items>
+      <items xsi:type="form:FormField">
+        <name>ДеревоОбъектовМетаданныхСценарийЗаписьСуществующего</name>
+        <id>96</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <dataPath xsi:type="form:DataPath">
+          <segments>ДеревоОбъектовМетаданных.СценарийЗаписьСуществующего</segments>
+        </dataPath>
+        <extendedTooltip>
+          <name>ДеревоОбъектовМетаданныхСценарийЗаписьСуществующегоРасширеннаяПодсказка</name>
+          <id>98</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <type>Label</type>
+          <autoMaxWidth>true</autoMaxWidth>
+          <autoMaxHeight>true</autoMaxHeight>
+          <extInfo xsi:type="form:LabelDecorationExtInfo">
+            <horizontalAlign>Left</horizontalAlign>
+          </extInfo>
+        </extendedTooltip>
+        <contextMenu>
+          <name>ДеревоОбъектовМетаданныхСценарийЗаписьСуществующегоКонтекстноеМеню</name>
+          <id>97</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <autoFill>true</autoFill>
+        </contextMenu>
+        <type>CheckBoxField</type>
+        <editMode>Enter</editMode>
+        <showInHeader>true</showInHeader>
+        <headerHorizontalAlign>Left</headerHorizontalAlign>
+        <showInFooter>true</showInFooter>
+        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+      </items>
+      <items xsi:type="form:FormField">
+        <name>ДеревоОбъектовМетаданныхДТВводНаОсновании</name>
+        <id>57</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <dataPath xsi:type="form:DataPath">
+          <segments>ДеревоОбъектовМетаданных.СценарийВводНаОсновании</segments>
+        </dataPath>
+        <toolTip>
+          <key>ru</key>
+          <value>Ввод на основании</value>
+        </toolTip>
+        <extendedTooltip>
+          <name>ДеревоОбъектовМетаданныхДТВводНаОснованииРасширеннаяПодсказка</name>
+          <id>59</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <type>Label</type>
+          <autoMaxWidth>true</autoMaxWidth>
+          <autoMaxHeight>true</autoMaxHeight>
+          <extInfo xsi:type="form:LabelDecorationExtInfo">
+            <horizontalAlign>Left</horizontalAlign>
+          </extInfo>
+        </extendedTooltip>
+        <contextMenu>
+          <name>ДеревоОбъектовМетаданныхДТВводНаОснованииКонтекстноеМеню</name>
+          <id>58</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <autoFill>true</autoFill>
+        </contextMenu>
+        <type>CheckBoxField</type>
+        <editMode>Enter</editMode>
+        <showInHeader>true</showInHeader>
+        <headerHorizontalAlign>Left</headerHorizontalAlign>
+        <showInFooter>true</showInFooter>
+        <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+      </items>
+      <visible>true</visible>
+      <enabled>true</enabled>
+      <userVisible>
+        <common>true</common>
+      </userVisible>
+      <title>
+        <key>ru</key>
+        <value>Сценарии</value>
+      </title>
+      <extendedTooltip>
+        <name>ДеревоОбъектовМетаданныхСценарииРасширеннаяПодсказка</name>
+        <id>95</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <type>Label</type>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <extInfo xsi:type="form:LabelDecorationExtInfo">
+          <horizontalAlign>Left</horizontalAlign>
+        </extInfo>
+      </extendedTooltip>
+      <type>ColumnGroup</type>
+      <extInfo xsi:type="form:ColumnGroupExtInfo">
+        <showTitle>true</showTitle>
+        <showInHeader>true</showInHeader>
+      </extInfo>
     </items>
     <commandBarLocation>None</commandBarLocation>
     <autoCommandBar>
@@ -1263,10 +1276,10 @@
       </edit>
     </columns>
     <columns>
-      <name>ДТОткрытьФорму</name>
+      <name>СценарийОткрытьФорму</name>
       <title>
         <key>ru</key>
-        <value>ДТ Открыть форму</value>
+        <value>Открыть форму</value>
       </title>
       <id>14</id>
       <valueType>
@@ -1280,10 +1293,10 @@
       </edit>
     </columns>
     <columns>
-      <name>ДТВводНаОсновании</name>
+      <name>СценарийВводНаОсновании</name>
       <title>
         <key>ru</key>
-        <value>ДТ Ввод на основании</value>
+        <value>Ввод на основании</value>
       </title>
       <id>15</id>
       <valueType>
@@ -1297,10 +1310,10 @@
       </edit>
     </columns>
     <columns>
-      <name>ДтЗаписьНового</name>
+      <name>СценарийЗаписьНового</name>
       <title>
         <key>ru</key>
-        <value>Дт запись нового</value>
+        <value>Запись нового</value>
       </title>
       <id>16</id>
       <valueType>
@@ -1314,10 +1327,10 @@
       </edit>
     </columns>
     <columns>
-      <name>ДТЗаписьСуществующего</name>
+      <name>СценарийЗаписьСуществующего</name>
       <title>
         <key>ru</key>
-        <value>ДТЗапись существующего</value>
+        <value>Запись существующего</value>
       </title>
       <id>17</id>
       <valueType>
