@@ -27884,9 +27884,6 @@
     <edit>
       <common>true</common>
     </edit>
-    <settingsSavedData xsi:type="form:DataPath">
-      <segments>Объект.ДелатьОтчетВФорматеjUnit</segments>
-    </settingsSavedData>
     <main>true</main>
     <additionalColumns>
       <tablePath xsi:type="form:DataPath">
