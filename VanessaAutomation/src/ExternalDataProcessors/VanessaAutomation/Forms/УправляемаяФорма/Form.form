@@ -27876,7 +27876,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.VanessaAutomation</types>
+      <types>ExternalDataProcessor.VanessaAutomation</types>
     </valueType>
     <view>
       <common>true</common>
@@ -34275,6 +34275,10 @@
       <key>ru</key>
       <value>Выгрузить настройки в файл...</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Save settings to file</value>
+    </title>
     <id>78</id>
     <use>
       <common>true</common>
@@ -34292,6 +34296,10 @@
       <key>ru</key>
       <value>Загрузить настройки из файла...</value>
     </title>
+    <title>
+      <key>en</key>
+      <value>Load settings from file</value>
+    </title>
     <id>79</id>
     <use>
       <common>true</common>
@@ -34302,27 +34310,6 @@
       </handler>
     </action>
     <currentRowUse>DontUse</currentRowUse>
-  </formCommands>
-  <formCommands>
-    <name>Тест</name>
-    <title>
-      <key>ru</key>
-      <value>Тест</value>
-    </title>
-    <id>80</id>
-    <toolTip>
-      <key>ru</key>
-      <value>Тест</value>
-    </toolTip>
-    <use>
-      <common>true</common>
-    </use>
-    <action xsi:type="form:FormCommandHandlerContainer">
-      <handler>
-        <name>Тест</name>
-      </handler>
-    </action>
-    <currentRowUse>Auto</currentRowUse>
   </formCommands>
   <commandInterface>
     <navigationPanel/>
