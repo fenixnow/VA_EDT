@@ -2718,7 +2718,7 @@
               <name>РаботаСОшибками</name>
               <id>2027</id>
               <items xsi:type="form:Button">
-                <name>ДеревоТестовКонтекстноеМенюПерейтиКСтрокеСОшибкой</name>
+                <name>ДеревоПерейтиКСтрокеСОшибкой</name>
                 <id>2033</id>
                 <visible>true</visible>
                 <enabled>true</enabled>
@@ -2726,7 +2726,7 @@
                   <common>true</common>
                 </userVisible>
                 <extendedTooltip>
-                  <name>ДеревоТестовКонтекстноеМенюПерейтиКСтрокеСОшибкойРасширеннаяПодсказка</name>
+                  <name>ДеревоПерейтиКСтрокеСОшибкойРасширеннаяПодсказка</name>
                   <id>2034</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -14381,6 +14381,10 @@
                 <key>ru</key>
                 <value>Скриншоты</value>
               </title>
+              <title>
+                <key>en</key>
+                <value>Screenshots</value>
+              </title>
               <extendedTooltip>
                 <name>ГруппаСкриншотыРасширеннаяПодсказка</name>
                 <id>1535</id>
@@ -15299,6 +15303,10 @@
                 <key>ru</key>
                 <value>Allure</value>
               </title>
+              <title>
+                <key>en</key>
+                <value>Allure</value>
+              </title>
               <extendedTooltip>
                 <name>ГруппаAllureРасширеннаяПодсказка</name>
                 <id>1537</id>
@@ -15331,7 +15339,7 @@
               <name>ГруппаjUnit</name>
               <id>1538</id>
               <items xsi:type="form:FormField">
-                <name>ДелатьОтчетВФорматеxUnit</name>
+                <name>ДелатьОтчетВФорматеjUnit</name>
                 <id>367</id>
                 <title>
                   <key>ru</key>
@@ -15433,7 +15441,7 @@
                   <name>ДелатьОтчетВФорматеxUnitПриИзменении</name>
                 </handlers>
                 <extendedTooltip>
-                  <name>ДелатьОтчетВФорматеxUnitРасширеннаяПодсказка</name>
+                  <name>ДелатьОтчетВФорматеjUnitРасширеннаяПодсказка</name>
                   <id>1393</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -15448,7 +15456,7 @@
                   </extInfo>
                 </extendedTooltip>
                 <contextMenu>
-                  <name>ДелатьОтчетВФорматеxUnitКонтекстноеМеню</name>
+                  <name>ДелатьОтчетВФорматеjUnitКонтекстноеМеню</name>
                   <id>368</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
@@ -15652,6 +15660,10 @@
               </userVisible>
               <title>
                 <key>ru</key>
+                <value>JUnit</value>
+              </title>
+              <title>
+                <key>en</key>
                 <value>JUnit</value>
               </title>
               <extendedTooltip>
@@ -16013,6 +16025,10 @@
                 <key>ru</key>
                 <value>Cucumber</value>
               </title>
+              <title>
+                <key>en</key>
+                <value>Cucumber</value>
+              </title>
               <extendedTooltip>
                 <name>ГруппаCucumberРасширеннаяПодсказка</name>
                 <id>1541</id>
@@ -16240,6 +16256,10 @@
               <title>
                 <key>ru</key>
                 <value>Логирование</value>
+              </title>
+              <title>
+                <key>en</key>
+                <value>Logs</value>
               </title>
               <extendedTooltip>
                 <name>ГруппаЛогТекстРасширеннаяПодсказка</name>
@@ -16995,6 +17015,10 @@
                 <key>ru</key>
                 <value>SikuliX server</value>
               </title>
+              <title>
+                <key>en</key>
+                <value>SikuliX server</value>
+              </title>
               <extendedTooltip>
                 <name>ГруппаSikuliXServerРасширеннаяПодсказка</name>
                 <id>1815</id>
@@ -17647,6 +17671,10 @@
               </userVisible>
               <title>
                 <key>ru</key>
+                <value>HTML и Markdown</value>
+              </title>
+              <title>
+                <key>en</key>
                 <value>HTML и Markdown</value>
               </title>
               <extendedTooltip>
@@ -22574,6 +22602,10 @@
                 <key>ru</key>
                 <value>Видеоинструкция</value>
               </title>
+              <title>
+                <key>en</key>
+                <value>Video instructions</value>
+              </title>
               <extendedTooltip>
                 <name>ГруппаРаботаСВидеоРасширеннаяПодсказка</name>
                 <id>1410</id>
@@ -23187,37 +23219,6 @@
               </extendedTooltip>
               <type>UsualButton</type>
               <commandName>Form.Command.ДляВызоваКонфигуратора</commandName>
-              <representation>Auto</representation>
-              <autoMaxWidth>true</autoMaxWidth>
-              <autoMaxHeight>true</autoMaxHeight>
-              <placementArea>UserCmds</placementArea>
-              <representationInContextMenu>Auto</representationInContextMenu>
-            </items>
-            <items xsi:type="form:Button">
-              <name>Тест</name>
-              <id>2058</id>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
-              <extendedTooltip>
-                <name>ТестРасширеннаяПодсказка</name>
-                <id>2059</id>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
-                <type>Label</type>
-                <autoMaxWidth>true</autoMaxWidth>
-                <autoMaxHeight>true</autoMaxHeight>
-                <extInfo xsi:type="form:LabelDecorationExtInfo">
-                  <horizontalAlign>Left</horizontalAlign>
-                </extInfo>
-              </extendedTooltip>
-              <type>UsualButton</type>
-              <commandName>Form.Command.Тест</commandName>
               <representation>Auto</representation>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
@@ -24941,7 +24942,6 @@
             <currentRowUse>DontUse</currentRowUse>
           </extInfo>
         </items>
-        <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
           <common>true</common>
