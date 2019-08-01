@@ -910,6 +910,37 @@
     <items xsi:type="form:FormGroup">
       <name>СтраницаСценарийПоведения</name>
       <id>103</id>
+      <items xsi:type="form:Button">
+        <name>ПодготовитьСценарииКВыполнению</name>
+        <id>108</id>
+        <visible>true</visible>
+        <enabled>true</enabled>
+        <userVisible>
+          <common>true</common>
+        </userVisible>
+        <extendedTooltip>
+          <name>ПодготовитьСценарииКВыполнениюРасширеннаяПодсказка</name>
+          <id>109</id>
+          <visible>true</visible>
+          <enabled>true</enabled>
+          <userVisible>
+            <common>true</common>
+          </userVisible>
+          <type>Label</type>
+          <autoMaxWidth>true</autoMaxWidth>
+          <autoMaxHeight>true</autoMaxHeight>
+          <extInfo xsi:type="form:LabelDecorationExtInfo">
+            <horizontalAlign>Left</horizontalAlign>
+          </extInfo>
+        </extendedTooltip>
+        <type>UsualButton</type>
+        <commandName>Form.Command.ПодготовитьСценарииКВыполнению</commandName>
+        <representation>Auto</representation>
+        <autoMaxWidth>true</autoMaxWidth>
+        <autoMaxHeight>true</autoMaxHeight>
+        <placementArea>UserCmds</placementArea>
+        <representationInContextMenu>Auto</representationInContextMenu>
+      </items>
       <items xsi:type="form:FormField">
         <name>Сценарий</name>
         <id>105</id>
@@ -1633,6 +1664,23 @@
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
         <name>УстановитьПоУмолчанию</name>
+      </handler>
+    </action>
+    <currentRowUse>Auto</currentRowUse>
+  </formCommands>
+  <formCommands>
+    <name>ПодготовитьСценарииКВыполнению</name>
+    <title>
+      <key>ru</key>
+      <value>Подготовить сценарии к выполнению</value>
+    </title>
+    <id>7</id>
+    <use>
+      <common>true</common>
+    </use>
+    <action xsi:type="form:FormCommandHandlerContainer">
+      <handler>
+        <name>ПодготовитьСценарииКВыполнению</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
