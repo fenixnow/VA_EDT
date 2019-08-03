@@ -19,4 +19,12 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <templates uuid="60b734c9-7ae5-4b7a-925e-7f39f36c7bf7">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+    <templateType>HTMLDocument</templateType>
+  </templates>
 </mdclass:ExternalDataProcessor>
