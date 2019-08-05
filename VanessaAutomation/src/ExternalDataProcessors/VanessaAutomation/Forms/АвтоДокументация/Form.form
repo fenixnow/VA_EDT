@@ -32,6 +32,78 @@
     </edit>
     <main>true</main>
   </attributes>
+  <attributes>
+    <name>ТекущаяФичаИнструкцииHTML</name>
+    <title>
+      <key>ru</key>
+      <value>Текущая фича инструкции HTML</value>
+    </title>
+    <id>2</id>
+    <valueType>
+      <types>String</types>
+      <stringQualifiers/>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ИмяФайлаЛогаИнструкцииHTML</name>
+    <title>
+      <key>ru</key>
+      <value>Имя файла лога инструкции HTML</value>
+    </title>
+    <id>3</id>
+    <valueType>
+      <types>String</types>
+      <stringQualifiers/>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ИмяФайлаЛогаИнструкцииMarkdown</name>
+    <title>
+      <key>ru</key>
+      <value>Имя файла лога инструкции markdown</value>
+    </title>
+    <id>4</id>
+    <valueType>
+      <types>String</types>
+      <stringQualifiers/>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ТекущаяФичаИнструкцииMarkdown</name>
+    <title>
+      <key>ru</key>
+      <value>Текущая фича инструкции markdown</value>
+    </title>
+    <id>5</id>
+    <valueType>
+      <types>String</types>
+      <stringQualifiers/>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
   <commandInterface>
     <navigationPanel/>
     <commandBar/>
