@@ -3377,6 +3377,15 @@
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>
   </forms>
+  <forms uuid="93a329a5-4ed5-4a9f-a66e-7d5c4990499c">
+    <name>АвтоДокументация</name>
+    <synonym>
+      <key>ru</key>
+      <value>Авто документация</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
   <templates uuid="5c906d2e-8b05-11e5-b599-9cd21ef5a847">
     <name>ОтчетТестирования</name>
     <synonym>
