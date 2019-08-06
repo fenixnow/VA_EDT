@@ -999,7 +999,7 @@
           <horizontalAlign>Left</horizontalAlign>
         </extInfo>
       </extendedTooltip>
-      <commandName>Form.Command.СгенерироватьСценарии</commandName>
+      <commandName>Form.Command.СформироватьСценарии</commandName>
       <representation>Auto</representation>
       <defaultButton>true</defaultButton>
       <autoMaxWidth>true</autoMaxWidth>
@@ -1008,7 +1008,7 @@
       <representationInContextMenu>Auto</representationInContextMenu>
     </items>
     <items xsi:type="form:FormGroup">
-      <name>ФормаГруппаДымовыеТесты</name>
+      <name>ФормаГруппаТесты</name>
       <id>66</id>
       <items xsi:type="form:Button">
         <name>УстановитьОткрытиеФормы</name>
@@ -1196,10 +1196,10 @@
       </userVisible>
       <title>
         <key>ru</key>
-        <value>Установить дымовые тесты...</value>
+        <value>Установить тесты...</value>
       </title>
       <extendedTooltip>
-        <name>ФормаГруппаДымовыеТестыРасширеннаяПодсказка</name>
+        <name>ФормаГруппаТестыРасширеннаяПодсказка</name>
         <id>67</id>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1523,10 +1523,10 @@
     </edit>
   </attributes>
   <formCommands>
-    <name>СгенерироватьСценарии</name>
+    <name>СформироватьСценарии</name>
     <title>
       <key>ru</key>
-      <value>Сгенерировать сценарии</value>
+      <value>Сформировать сценарии</value>
     </title>
     <id>1</id>
     <use>
@@ -1534,7 +1534,7 @@
     </use>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
-        <name>СгенерироватьСценарии</name>
+        <name>СформироватьСценарии</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>

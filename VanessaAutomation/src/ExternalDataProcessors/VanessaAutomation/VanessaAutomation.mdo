@@ -3378,10 +3378,10 @@
     <usePurposes>MobileDevice</usePurposes>
   </forms>
   <forms uuid="78879091-4cfb-4209-a23f-577a84bb1909">
-    <name>ДымовыеТесты</name>
+    <name>ГенераторТестов</name>
     <synonym>
       <key>ru</key>
-      <value>Дымовые тесты</value>
+      <value>Генератор тестов</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>

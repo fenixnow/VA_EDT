@@ -6047,7 +6047,7 @@
             </extInfo>
           </items>
           <items xsi:type="form:Button">
-            <name>ОткрытьФормуДымовыхТестов</name>
+            <name>ОткрытьФормуГенератораТестов</name>
             <id>2060</id>
             <visible>true</visible>
             <enabled>true</enabled>
@@ -6055,7 +6055,7 @@
               <common>true</common>
             </userVisible>
             <extendedTooltip>
-              <name>ОткрытьФормуДымовыхТестовРасширеннаяПодсказка</name>
+              <name>ОткрытьФормуГенератораТестовРасширеннаяПодсказка</name>
               <id>2061</id>
               <visible>true</visible>
               <enabled>true</enabled>
@@ -6069,7 +6069,7 @@
                 <horizontalAlign>Left</horizontalAlign>
               </extInfo>
             </extendedTooltip>
-            <commandName>Form.Command.ОткрытьФормуДымовыхТестов</commandName>
+            <commandName>Form.Command.ОткрытьФормуГенератораТестов</commandName>
             <representation>Auto</representation>
             <autoMaxWidth>true</autoMaxWidth>
             <autoMaxHeight>true</autoMaxHeight>
@@ -34303,10 +34303,10 @@
     <currentRowUse>DontUse</currentRowUse>
   </formCommands>
   <formCommands>
-    <name>ОткрытьФормуДымовыхТестов</name>
+    <name>ОткрытьФормуГенератораТестов</name>
     <title>
       <key>ru</key>
-      <value>Дымовые тесты</value>
+      <value>Генератор тестов</value>
     </title>
     <id>81</id>
     <use>
@@ -34314,7 +34314,7 @@
     </use>
     <action xsi:type="form:FormCommandHandlerContainer">
       <handler>
-        <name>ОткрытьФормуДымовыхТестов</name>
+        <name>ОткрытьФормуГенератораТестов</name>
       </handler>
     </action>
     <currentRowUse>Auto</currentRowUse>
