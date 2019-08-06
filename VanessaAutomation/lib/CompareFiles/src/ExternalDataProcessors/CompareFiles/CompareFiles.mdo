@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="3edd8a2e-59d1-40a2-9fb7-bc6fb9b2bd90">
+  <producedTypes>
+    <objectType typeId="09a6c0ba-ff7f-4ea2-9f22-6b74c2c16425" valueTypeId="b86dd56e-8c6f-4da8-9a7c-43a3fc49c02c"/>
+  </producedTypes>
+  <name>CompareFiles</name>
+  <synonym>
+    <key>ru</key>
+    <value>Compare files</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="e1f23ab7-de62-4504-ab2f-7637ac54034e"/>
+  <defaultForm>ExternalDataProcessor.CompareFiles.Form.Форма</defaultForm>
+  <forms uuid="6fd7ab52-1280-47e6-bebb-7f80011e531f">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>

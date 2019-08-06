@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="698ea7a7-29fa-49a2-86ff-ad0cb936cb90">
+  <producedTypes>
+    <objectType typeId="6a228417-d4d5-46ef-93b5-979f99c0a9e6" valueTypeId="9337738f-ea70-4156-a21b-3da0e26285a4"/>
+  </producedTypes>
+  <name>FeatureReader</name>
+  <synonym>
+    <key>ru</key>
+    <value>Feature reader</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="017c4bc8-11aa-4681-8ca7-5c56bc1fc509"/>
+  <attributes uuid="ef8b5968-6134-46ff-9203-bd34b0f906f1">
+    <name>DebugLog</name>
+    <synonym>
+      <key>ru</key>
+      <value>Debug log</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="fd4cae07-0391-4ecd-a13e-133e0a8c64ec">
+    <name>КаталогИнструментов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Каталог инструментов</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="0ef39284-c996-4be9-a7b7-e57a3bde958e">
+    <name>ШагСтрокДляМодуля</name>
+    <synonym>
+      <key>ru</key>
+      <value>Шаг строк для модуля</value>
+    </synonym>
+    <type>
+      <types>Number</types>
+      <numberQualifiers>
+        <precision>10</precision>
+      </numberQualifiers>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="cebb2454-50ac-4c18-bf56-7f449d10e37b">
+    <name>ГенерироватьУФ</name>
+    <synonym>
+      <key>ru</key>
+      <value>Генерировать УФ</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+</mdclass:ExternalDataProcessor>
