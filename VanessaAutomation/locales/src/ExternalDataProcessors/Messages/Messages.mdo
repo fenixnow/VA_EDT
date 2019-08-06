@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="9709edeb-4a0a-4b5b-bdb7-44e382b0781f">
+  <producedTypes>
+    <objectType typeId="f53c44f3-d4a1-4488-9508-20db2e045b73" valueTypeId="9e237e77-0b47-4c4f-bc3b-59d012a98c9b"/>
+  </producedTypes>
+  <name>Messages</name>
+  <synonym>
+    <key>ru</key>
+    <value>Messages</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="6c2c0064-7342-4113-9911-7acb4e87ddef"/>
+  <defaultForm>ExternalDataProcessor.Messages.Form.Форма</defaultForm>
+  <forms uuid="e6cabb0f-ef35-4010-915b-2049fbfe6eb3">
+    <name>Форма</name>
+    <synonym>
+      <key>en</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="00395f78-c598-4cb7-bbdc-839855013c91">
+    <name>am</name>
+    <synonym>
+      <key>ru</key>
+      <value>am</value>
+    </synonym>
+  </templates>
+  <templates uuid="2b188d90-1352-47a5-87cb-dad6103b59f2">
+    <name>az</name>
+    <synonym>
+      <key>ru</key>
+      <value>az</value>
+    </synonym>
+  </templates>
+  <templates uuid="c4a6267e-c9eb-4168-9448-b2254a6058e3">
+    <name>bg</name>
+    <synonym>
+      <key>ru</key>
+      <value>bg</value>
+    </synonym>
+  </templates>
+  <templates uuid="c2e3ae4e-8579-4bc5-9ea0-eab5c7e37721">
+    <name>de</name>
+    <synonym>
+      <key>ru</key>
+      <value>de</value>
+    </synonym>
+  </templates>
+  <templates uuid="2b60ef90-7a46-4e16-9d99-31bfa8d0d814">
+    <name>en</name>
+    <synonym>
+      <key>ru</key>
+      <value>en</value>
+    </synonym>
+  </templates>
+  <templates uuid="28a3b116-955b-4ad7-9e90-c20b3e75b858">
+    <name>es</name>
+    <synonym>
+      <key>ru</key>
+      <value>es</value>
+    </synonym>
+  </templates>
+  <templates uuid="3cf94686-8975-48c1-af3f-e0e7b55e6544">
+    <name>et</name>
+    <synonym>
+      <key>ru</key>
+      <value>et</value>
+    </synonym>
+  </templates>
+  <templates uuid="2c5b0d9a-7740-481d-9bbe-503297ceada8">
+    <name>fr</name>
+    <synonym>
+      <key>ru</key>
+      <value>fr</value>
+    </synonym>
+  </templates>
+  <templates uuid="6aec95fa-c4db-4df4-9440-af2764d14d07">
+    <name>hu</name>
+    <synonym>
+      <key>ru</key>
+      <value>hu</value>
+    </synonym>
+  </templates>
+  <templates uuid="42605597-17f7-45e5-844c-e82284a9dd22">
+    <name>it</name>
+    <synonym>
+      <key>ru</key>
+      <value>it</value>
+    </synonym>
+  </templates>
+  <templates uuid="059b6817-d76e-4267-8a35-fa23699015ff">
+    <name>ka</name>
+    <synonym>
+      <key>ru</key>
+      <value>ka</value>
+    </synonym>
+  </templates>
+  <templates uuid="762387b1-0ec9-47dc-b40b-8a7335dd36c1">
+    <name>lt</name>
+    <synonym>
+      <key>ru</key>
+      <value>lt</value>
+    </synonym>
+  </templates>
+  <templates uuid="2a0ddb8e-fa12-4a6e-bc83-7b2e755826a3">
+    <name>lv</name>
+    <synonym>
+      <key>ru</key>
+      <value>lv</value>
+    </synonym>
+  </templates>
+  <templates uuid="aacb0bfb-44eb-4cc7-99a0-6bd9e8e2b3b5">
+    <name>mn</name>
+    <synonym>
+      <key>ru</key>
+      <value>mn</value>
+    </synonym>
+  </templates>
+  <templates uuid="d41bafde-8629-49b1-81cd-b85487336aa7">
+    <name>pl</name>
+    <synonym>
+      <key>ru</key>
+      <value>pl</value>
+    </synonym>
+  </templates>
+  <templates uuid="2c4ec996-0fd6-4ab2-b56a-0e59a434eb52">
+    <name>ro</name>
+    <synonym>
+      <key>ru</key>
+      <value>ro</value>
+    </synonym>
+  </templates>
+  <templates uuid="2d1ab09b-17cb-4c2f-8e5c-883603392f94">
+    <name>sl</name>
+    <synonym>
+      <key>ru</key>
+      <value>sl</value>
+    </synonym>
+  </templates>
+  <templates uuid="43af94d5-0618-4ba6-b9ed-f094660a8d02">
+    <name>sv</name>
+    <synonym>
+      <key>ru</key>
+      <value>sv</value>
+    </synonym>
+  </templates>
+  <templates uuid="e11c6634-316b-46c0-92bb-6c79a55d30d6">
+    <name>tr</name>
+    <synonym>
+      <key>ru</key>
+      <value>tr</value>
+    </synonym>
+  </templates>
+  <templates uuid="3554051c-32cc-4429-8e37-780d0e9f67d4">
+    <name>vi</name>
+    <synonym>
+      <key>ru</key>
+      <value>vi</value>
+    </synonym>
+  </templates>
+</mdclass:ExternalDataProcessor>
