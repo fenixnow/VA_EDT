@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="79a499cc-1782-4a2f-abe7-61ea4d49fd5a">
+  <producedTypes>
+    <objectType typeId="1fa267af-3d54-4f70-ac00-718486d7aafd" valueTypeId="ed829681-4496-44fd-adeb-667f09d931c3"/>
+  </producedTypes>
+  <name>ПерегенерацияEPF</name>
+  <synonym>
+    <key>ru</key>
+    <value>ПерегенерацияEPF</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="8aa13ab8-188a-4f59-be4f-031aa5450c90"/>
+  <defaultForm>ExternalDataProcessor.ПерегенерацияEPF.Form.Форма</defaultForm>
+  <attributes uuid="3e7034ae-68ae-4437-b074-ad2287da4dc0">
+    <name>Контекст</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контекст</value>
+    </synonym>
+    <type/>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="ee026673-e0b5-4f6d-a8e6-c7017655bbae">
+    <name>КонтекстСохраняемый</name>
+    <synonym>
+      <key>ru</key>
+      <value>Контекст сохраняемый</value>
+    </synonym>
+    <type/>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="70e297e0-e8a2-43bf-8be1-62e408f610a1">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <templates uuid="952472d0-5e5c-4291-9756-3564bb3c593f">
+    <name>Макет</name>
+    <synonym>
+      <key>ru</key>
+      <value>Макет</value>
+    </synonym>
+    <templateType>BinaryData</templateType>
+  </templates>
+</mdclass:ExternalDataProcessor>
