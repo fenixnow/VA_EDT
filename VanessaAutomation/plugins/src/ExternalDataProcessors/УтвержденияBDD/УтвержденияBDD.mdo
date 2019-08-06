@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:ExternalDataProcessor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="11c5f751-bfaf-480a-92fe-7f30023f2e9a">
+  <producedTypes>
+    <objectType typeId="85629dd2-6be4-49c6-9a69-13411102aa57" valueTypeId="3fdd55c8-e92e-4f99-8b28-3ba8957b50ab"/>
+  </producedTypes>
+  <name>УтвержденияBDD</name>
+  <synonym>
+    <key>ru</key>
+    <value>Утверждения BDD</value>
+  </synonym>
+  <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="908d0aaf-e4ec-4668-8d14-3e8075d222fd"/>
+  <defaultForm>ExternalDataProcessor.УтвержденияBDD.Form.Форма</defaultForm>
+  <attributes uuid="07e5d7d8-7ae8-4773-83b2-e5af4c8c5895">
+    <name>ДопСообщениеОшибки</name>
+    <synonym>
+      <key>ru</key>
+      <value>Доп сообщение ошибки</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="28603847-6d5b-4e7b-9acb-8cfe3787dc02">
+    <name>ИмяМетода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Имя метода</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="c1b88fc0-4904-40fb-ad59-c4f10385f212">
+    <name>ПараметрыМетода</name>
+    <synonym>
+      <key>ru</key>
+      <value>Параметры метода</value>
+    </synonym>
+    <type/>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="9ff3fc84-a67e-44c1-83e8-ba5bd472312b">
+    <name>ПроверяемоеЗначение</name>
+    <synonym>
+      <key>ru</key>
+      <value>Проверяемое значение</value>
+    </synonym>
+    <type/>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="6f466249-bf6f-4555-92bd-b04d98991255">
+    <name>ФлагОтрицания</name>
+    <synonym>
+      <key>ru</key>
+      <value>Флаг отрицания</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <forms uuid="4e8e1a4a-a947-419b-95c8-58a411e3ffa4">
+    <name>Форма</name>
+    <synonym>
+      <key>ru</key>
+      <value>Форма</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+</mdclass:ExternalDataProcessor>
