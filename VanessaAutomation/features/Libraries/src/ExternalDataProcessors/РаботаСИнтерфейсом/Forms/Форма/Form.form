@@ -71,7 +71,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.РаботаСИнтерфейсом</types>
+      <types>ExternalDataProcessor.РаботаСИнтерфейсом</types>
     </valueType>
     <view>
       <common>true</common>
@@ -312,6 +312,23 @@
     <valueType>
       <types>String</types>
       <stringQualifiers/>
+    </valueType>
+    <view>
+      <common>true</common>
+    </view>
+    <edit>
+      <common>true</common>
+    </edit>
+  </attributes>
+  <attributes>
+    <name>ПроверкаПоШаблону</name>
+    <title>
+      <key>ru</key>
+      <value>Проверка по шаблону</value>
+    </title>
+    <id>16</id>
+    <valueType>
+      <types>Boolean</types>
     </valueType>
     <view>
       <common>true</common>
