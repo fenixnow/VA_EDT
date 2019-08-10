@@ -3,13 +3,13 @@
   <producedTypes>
     <objectType typeId="1fa267af-3d54-4f70-ac00-718486d7aafd" valueTypeId="ed829681-4496-44fd-adeb-667f09d931c3"/>
   </producedTypes>
-  <name>Issue_102_ОтчетjUnit</name>
+  <name>ОтчетjUnit</name>
   <synonym>
     <key>ru</key>
     <value>Issue-102-ОтчетjUnit</value>
   </synonym>
   <containedObjects classId="c3831ec8-d8d5-4f93-8a22-f9bfae07327f" objectId="8aa13ab8-188a-4f59-be4f-031aa5450c90"/>
-  <defaultForm>ExternalDataProcessor.Issue_102_ОтчетjUnit.Form.Форма</defaultForm>
+  <defaultForm>ExternalDataProcessor.ОтчетjUnit.Form.Форма</defaultForm>
   <forms uuid="70e297e0-e8a2-43bf-8be1-62e408f610a1">
     <name>Форма</name>
     <synonym>
