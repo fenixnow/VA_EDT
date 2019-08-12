@@ -27874,7 +27874,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.VanessaAutomation</types>
+      <types>ExternalDataProcessor.VanessaAutomation</types>
     </valueType>
     <view>
       <common>true</common>
@@ -34305,6 +34305,31 @@
       </handler>
     </action>
     <currentRowUse>DontUse</currentRowUse>
+  </formCommands>
+  <formCommands>
+    <name>ЗакрытьТаблоПеременных</name>
+    <title>
+      <key>ru</key>
+      <value>Закрыть</value>
+    </title>
+    <title>
+      <key>en</key>
+      <value>Close</value>
+    </title>
+    <id>80</id>
+    <toolTip>
+      <key>ru</key>
+      <value>Закрыть табло переменных</value>
+    </toolTip>
+    <use>
+      <common>true</common>
+    </use>
+    <action xsi:type="form:FormCommandHandlerContainer">
+      <handler>
+        <name>ЗакрытьТаблоПеременных</name>
+      </handler>
+    </action>
+    <currentRowUse>Auto</currentRowUse>
   </formCommands>
   <commandInterface>
     <navigationPanel/>

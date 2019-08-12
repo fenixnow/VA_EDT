@@ -3211,6 +3211,38 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
+  <attributes uuid="ad87a9d5-bb7e-4eac-8fad-b6694aa2cf71">
+    <name>СобиратьДанныеОСостоянииАктивнойФормыПриОшибке</name>
+    <synonym>
+      <key>ru</key>
+      <value>Собирать данные о состоянии активной формы при ошибке</value>
+    </synonym>
+    <synonym>
+      <key>en</key>
+      <value>Get active form data on error</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="2a993ca6-bdbc-4e38-b2b6-adce7320e276">
+    <name>СобиратьДанныеОСостоянииВсехФормПриОшибке</name>
+    <synonym>
+      <key>ru</key>
+      <value>Собирать данные о состоянии всех форм при ошибке</value>
+    </synonym>
+    <synonym>
+      <key>en</key>
+      <value>Get all forms data on error</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
   <forms uuid="813effc7-9383-4845-a4fa-2f5481e5a12b">
     <name>Форма</name>
     <synonym>
