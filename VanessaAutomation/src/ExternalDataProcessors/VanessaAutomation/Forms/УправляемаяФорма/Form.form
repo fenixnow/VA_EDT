@@ -4865,88 +4865,88 @@
           <common>true</common>
         </userVisible>
         <title>
-          <key>bg</key>
-          <value>Библиотека</value>
-        </title>
-        <title>
-          <key>mn</key>
-          <value>Номын сан</value>
-        </title>
-        <title>
-          <key>fr</key>
-          <value>La bibliothèque</value>
-        </title>
-        <title>
-          <key>pl</key>
-          <value>Biblioteki</value>
-        </title>
-        <title>
-          <key>tr</key>
-          <value>Kitaplığı</value>
+          <key>ru</key>
+          <value>Библиотеки</value>
         </title>
         <title>
           <key>en</key>
           <value>Libraries</value>
         </title>
         <title>
-          <key>ka</key>
-          <value>ბიბლიოთეკა</value>
-        </title>
-        <title>
-          <key>it</key>
-          <value>Libreria</value>
-        </title>
-        <title>
-          <key>sl</key>
-          <value>Knjižnica</value>
-        </title>
-        <title>
-          <key>de</key>
-          <value>Bibliothek</value>
-        </title>
-        <title>
           <key>am</key>
           <value>ላይብረሪ</value>
-        </title>
-        <title>
-          <key>es</key>
-          <value>La biblioteca</value>
-        </title>
-        <title>
-          <key>et</key>
-          <value>Raamatukogu</value>
-        </title>
-        <title>
-          <key>vi</key>
-          <value>Thư viện</value>
-        </title>
-        <title>
-          <key>lt</key>
-          <value>Bibliotekos</value>
-        </title>
-        <title>
-          <key>lv</key>
-          <value>Bibliotēkas</value>
-        </title>
-        <title>
-          <key>sv</key>
-          <value>Bibliotek</value>
-        </title>
-        <title>
-          <key>hu</key>
-          <value>Könyvtár</value>
         </title>
         <title>
           <key>az</key>
           <value>Kitabxana</value>
         </title>
         <title>
+          <key>bg</key>
+          <value>Библиотека</value>
+        </title>
+        <title>
+          <key>et</key>
+          <value>Raamatukogu</value>
+        </title>
+        <title>
+          <key>fr</key>
+          <value>La bibliothèque</value>
+        </title>
+        <title>
+          <key>ka</key>
+          <value>ბიბლიოთეკა</value>
+        </title>
+        <title>
+          <key>de</key>
+          <value>Bibliothek</value>
+        </title>
+        <title>
+          <key>hu</key>
+          <value>Könyvtár</value>
+        </title>
+        <title>
+          <key>it</key>
+          <value>Libreria</value>
+        </title>
+        <title>
+          <key>lv</key>
+          <value>Bibliotēkas</value>
+        </title>
+        <title>
+          <key>lt</key>
+          <value>Bibliotekos</value>
+        </title>
+        <title>
+          <key>mn</key>
+          <value>Номын сан</value>
+        </title>
+        <title>
+          <key>pl</key>
+          <value>Biblioteki</value>
+        </title>
+        <title>
           <key>ro</key>
           <value>Biblioteca</value>
         </title>
         <title>
-          <key>ru</key>
-          <value>Библиотеки</value>
+          <key>sl</key>
+          <value>Knjižnica</value>
+        </title>
+        <title>
+          <key>es</key>
+          <value>La biblioteca</value>
+        </title>
+        <title>
+          <key>sv</key>
+          <value>Bibliotek</value>
+        </title>
+        <title>
+          <key>tr</key>
+          <value>Kitaplığı</value>
+        </title>
+        <title>
+          <key>vi</key>
+          <value>Thư viện</value>
         </title>
         <toolTip>
           <key>ru</key>
@@ -15477,84 +15477,84 @@
                   <name>КаталогВыгрузкиJUnit</name>
                   <id>370</id>
                   <title>
-                    <key>bg</key>
-                    <value>Временен каталог за файлове JUnit</value>
-                  </title>
-                  <title>
-                    <key>mn</key>
-                    <value>Түр зуурын сангийн файлууд, JUnit</value>
-                  </title>
-                  <title>
-                    <key>fr</key>
-                    <value>Un répertoire temporaire pour les fichiers JUnit</value>
-                  </title>
-                  <title>
-                    <key>pl</key>
-                    <value>Tymczasowy katalog dla plików JUnit</value>
-                  </title>
-                  <title>
-                    <key>tr</key>
-                    <value>Geçici dizin dosyaları için JUnit</value>
-                  </title>
-                  <title>
                     <key>en</key>
                     <value>Temp dir for JUnit xml files</value>
-                  </title>
-                  <title>
-                    <key>ka</key>
-                    <value>დროებითი დირექტორია ფაილი, JUnit</value>
-                  </title>
-                  <title>
-                    <key>it</key>
-                    <value>La directory temporanea per i file di JUnit</value>
-                  </title>
-                  <title>
-                    <key>sl</key>
-                    <value>Začasni imenik za datoteke, JUnit</value>
-                  </title>
-                  <title>
-                    <key>de</key>
-                    <value>Das temporäre Verzeichnis für Dateien JUnit</value>
                   </title>
                   <title>
                     <key>am</key>
                     <value>ጊዜያዊ ማውጫ ደረጃ ፋይሎችን JUnit</value>
                   </title>
                   <title>
-                    <key>es</key>
-                    <value>La ubicación temporal para los archivos de JUnit</value>
+                    <key>az</key>
+                    <value>Müvəqqəti faylları üçün kataloq JUnit</value>
+                  </title>
+                  <title>
+                    <key>bg</key>
+                    <value>Временен каталог за файлове JUnit</value>
                   </title>
                   <title>
                     <key>et</key>
                     <value>Temp kataloogi failide Rongid</value>
                   </title>
                   <title>
-                    <key>vi</key>
-                    <value>Thư mục tạm thời dành cho các tệp tin JUnit</value>
+                    <key>fr</key>
+                    <value>Un répertoire temporaire pour les fichiers JUnit</value>
                   </title>
                   <title>
-                    <key>lt</key>
-                    <value>Laikiną katalogą failų JUnit</value>
+                    <key>ka</key>
+                    <value>დროებითი დირექტორია ფაილი, JUnit</value>
                   </title>
                   <title>
-                    <key>lv</key>
-                    <value>Pagaidu direktoriju failu JUnit</value>
-                  </title>
-                  <title>
-                    <key>sv</key>
-                    <value>Temporär katalog för filer, JUnit</value>
+                    <key>de</key>
+                    <value>Das temporäre Verzeichnis für Dateien JUnit</value>
                   </title>
                   <title>
                     <key>hu</key>
                     <value>Ideiglenes könyvtárba a fájlokat, JUnit</value>
                   </title>
                   <title>
-                    <key>az</key>
-                    <value>Müvəqqəti faylları üçün kataloq JUnit</value>
+                    <key>it</key>
+                    <value>La directory temporanea per i file di JUnit</value>
+                  </title>
+                  <title>
+                    <key>lv</key>
+                    <value>Pagaidu direktoriju failu JUnit</value>
+                  </title>
+                  <title>
+                    <key>lt</key>
+                    <value>Laikiną katalogą failų JUnit</value>
+                  </title>
+                  <title>
+                    <key>mn</key>
+                    <value>Түр зуурын сангийн файлууд, JUnit</value>
+                  </title>
+                  <title>
+                    <key>pl</key>
+                    <value>Tymczasowy katalog dla plików JUnit</value>
                   </title>
                   <title>
                     <key>ro</key>
                     <value>Directorul temporar pentru fișiere JUnit</value>
+                  </title>
+                  <title>
+                    <key>sl</key>
+                    <value>Začasni imenik za datoteke, JUnit</value>
+                  </title>
+                  <title>
+                    <key>es</key>
+                    <value>La ubicación temporal para los archivos de JUnit</value>
+                  </title>
+                  <title>
+                    <key>sv</key>
+                    <value>Temporär katalog för filer, JUnit</value>
+                  </title>
+                  <title>
+                    <key>tr</key>
+                    <value>Geçici dizin dosyaları için JUnit</value>
+                  </title>
+                  <title>
+                    <key>vi</key>
+                    <value>Thư mục tạm thời dành cho các tệp tin JUnit</value>
                   </title>
                   <title>
                     <key>ru</key>
@@ -16327,6 +16327,98 @@
                 <contextMenu>
                   <name>ДелатьЛогОшибокВТекстовыйФайлКонтекстноеМеню</name>
                   <id>1756</id>
+                  <visible>true</visible>
+                  <enabled>true</enabled>
+                  <userVisible>
+                    <common>true</common>
+                  </userVisible>
+                  <autoFill>true</autoFill>
+                </contextMenu>
+                <type>CheckBoxField</type>
+                <editMode>Enter</editMode>
+                <showInHeader>true</showInHeader>
+                <headerHorizontalAlign>Left</headerHorizontalAlign>
+                <showInFooter>true</showInFooter>
+                <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+              </items>
+              <items xsi:type="form:FormField">
+                <name>СобиратьДанныеОСостоянииАктивнойФормыПриОшибке</name>
+                <id>2060</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
+                <dataPath xsi:type="form:MultiLanguageDataPath">
+                  <paths xsi:type="form:DataPath">
+                    <segments>Объект.СобиратьДанныеОСостоянииАктивнойФормыПриОшибке</segments>
+                  </paths>
+                </dataPath>
+                <titleLocation>Right</titleLocation>
+                <extendedTooltip>
+                  <name>СобиратьДанныеОСостоянииАктивнойФормыПриОшибкеРасширеннаяПодсказка</name>
+                  <id>2062</id>
+                  <visible>true</visible>
+                  <enabled>true</enabled>
+                  <userVisible>
+                    <common>true</common>
+                  </userVisible>
+                  <type>Label</type>
+                  <autoMaxWidth>true</autoMaxWidth>
+                  <autoMaxHeight>true</autoMaxHeight>
+                  <extInfo xsi:type="form:LabelDecorationExtInfo">
+                    <horizontalAlign>Left</horizontalAlign>
+                  </extInfo>
+                </extendedTooltip>
+                <contextMenu>
+                  <name>СобиратьДанныеОСостоянииАктивнойФормыПриОшибкеКонтекстноеМеню</name>
+                  <id>2061</id>
+                  <visible>true</visible>
+                  <enabled>true</enabled>
+                  <userVisible>
+                    <common>true</common>
+                  </userVisible>
+                  <autoFill>true</autoFill>
+                </contextMenu>
+                <type>CheckBoxField</type>
+                <editMode>Enter</editMode>
+                <showInHeader>true</showInHeader>
+                <headerHorizontalAlign>Left</headerHorizontalAlign>
+                <showInFooter>true</showInFooter>
+                <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+              </items>
+              <items xsi:type="form:FormField">
+                <name>СобиратьДанныеОСостоянииВсехФормПриОшибке</name>
+                <id>2063</id>
+                <visible>true</visible>
+                <enabled>true</enabled>
+                <userVisible>
+                  <common>true</common>
+                </userVisible>
+                <dataPath xsi:type="form:MultiLanguageDataPath">
+                  <paths xsi:type="form:DataPath">
+                    <segments>Объект.СобиратьДанныеОСостоянииВсехФормПриОшибке</segments>
+                  </paths>
+                </dataPath>
+                <titleLocation>Right</titleLocation>
+                <extendedTooltip>
+                  <name>СобиратьДанныеОСостоянииВсехФормПриОшибкеРасширеннаяПодсказка</name>
+                  <id>2065</id>
+                  <visible>true</visible>
+                  <enabled>true</enabled>
+                  <userVisible>
+                    <common>true</common>
+                  </userVisible>
+                  <type>Label</type>
+                  <autoMaxWidth>true</autoMaxWidth>
+                  <autoMaxHeight>true</autoMaxHeight>
+                  <extInfo xsi:type="form:LabelDecorationExtInfo">
+                    <horizontalAlign>Left</horizontalAlign>
+                  </extInfo>
+                </extendedTooltip>
+                <contextMenu>
+                  <name>СобиратьДанныеОСостоянииВсехФормПриОшибкеКонтекстноеМеню</name>
+                  <id>2064</id>
                   <visible>true</visible>
                   <enabled>true</enabled>
                   <userVisible>
