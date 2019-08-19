@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.РаботаСВидео</types>
+      <types>ExternalDataProcessor.РаботаСВидео</types>
     </valueType>
     <view>
       <common>true</common>

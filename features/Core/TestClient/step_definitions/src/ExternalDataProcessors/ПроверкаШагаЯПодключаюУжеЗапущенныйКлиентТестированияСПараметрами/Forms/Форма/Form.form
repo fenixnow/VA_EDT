@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПроверкаШагаЯПодключаюУжеЗапущенныйКлиентТестированияСПараметрами</types>
+      <types>ExternalDataProcessor.ПроверкаШагаЯПодключаюУжеЗапущенныйКлиентТестированияСПараметрами</types>
     </valueType>
     <view>
       <common>true</common>

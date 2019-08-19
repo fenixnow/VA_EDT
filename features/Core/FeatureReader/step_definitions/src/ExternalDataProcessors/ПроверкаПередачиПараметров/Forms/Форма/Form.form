@@ -70,7 +70,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПроверкаПередачиПараметров</types>
+      <types>ExternalDataProcessor.ПроверкаПередачиПараметров</types>
     </valueType>
     <view>
       <common>true</common>

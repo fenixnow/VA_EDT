@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Issue_ПереходКСтроекВМетодеШаг</types>
+      <types>ExternalDataProcessor.Issue_ПереходКСтроекВМетодеШаг</types>
     </valueType>
     <view>
       <common>true</common>

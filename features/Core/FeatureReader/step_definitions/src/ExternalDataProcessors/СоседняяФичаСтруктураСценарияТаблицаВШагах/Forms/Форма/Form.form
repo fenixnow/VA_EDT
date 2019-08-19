@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.СоседняяФичаСтруктураСценарияТаблицаВШагах</types>
+      <types>ExternalDataProcessor.СоседняяФичаСтруктураСценарияТаблицаВШагах</types>
     </valueType>
     <view>
       <common>true</common>

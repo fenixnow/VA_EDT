@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Issue_102_ОтчетjUnit</types>
+      <types>ExternalDataProcessor.Issue_102_ОтчетjUnit</types>
     </valueType>
     <view>
       <common>true</common>

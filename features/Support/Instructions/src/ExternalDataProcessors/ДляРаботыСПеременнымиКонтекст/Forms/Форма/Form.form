@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ДляРаботыСПеременнымиКонтекст</types>
+      <types>ExternalDataProcessor.ДляРаботыСПеременнымиКонтекст</types>
     </valueType>
     <view>
       <common>true</common>

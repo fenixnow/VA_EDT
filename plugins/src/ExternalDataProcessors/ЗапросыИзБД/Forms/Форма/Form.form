@@ -24,7 +24,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ЗапросыИзБД</types>
+      <types>ExternalDataProcessor.ЗапросыИзБД</types>
     </valueType>
     <view>
       <common>true</common>

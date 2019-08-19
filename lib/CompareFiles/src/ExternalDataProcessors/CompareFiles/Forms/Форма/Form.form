@@ -27,7 +27,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.CompareFiles</types>
+      <types>ExternalDataProcessor.CompareFiles</types>
     </valueType>
     <view>
       <common>true</common>

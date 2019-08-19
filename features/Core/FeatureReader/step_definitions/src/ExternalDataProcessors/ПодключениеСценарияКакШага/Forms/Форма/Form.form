@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПодключениеСценарияКакШага</types>
+      <types>ExternalDataProcessor.ПодключениеСценарияКакШага</types>
     </valueType>
     <view>
       <common>true</common>

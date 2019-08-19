@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Issue_272_ПроизвольноеЗначениеВТаблице</types>
+      <types>ExternalDataProcessor.Issue_272_ПроизвольноеЗначениеВТаблице</types>
     </valueType>
     <view>
       <common>true</common>

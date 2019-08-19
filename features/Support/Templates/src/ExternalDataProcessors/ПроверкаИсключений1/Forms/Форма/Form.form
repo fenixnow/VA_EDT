@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПроверкаИсключений1</types>
+      <types>ExternalDataProcessor.ПроверкаИсключений1</types>
     </valueType>
     <view>
       <common>true</common>

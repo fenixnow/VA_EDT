@@ -78,7 +78,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.СкачиваниеПрограмм</types>
+      <types>ExternalDataProcessor.СкачиваниеПрограмм</types>
     </valueType>
     <view>
       <common>true</common>

@@ -2944,7 +2944,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.СериализаторMXL</types>
+      <types>ExternalDataProcessor.СериализаторMXL</types>
     </valueType>
     <view>
       <common>true</common>

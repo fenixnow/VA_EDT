@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ФичаДляПроверкиSikuliXServer</types>
+      <types>ExternalDataProcessor.ФичаДляПроверкиSikuliXServer</types>
     </valueType>
     <view>
       <common>true</common>

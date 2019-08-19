@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Messages</types>
+      <types>ExternalDataProcessor.Messages</types>
     </valueType>
     <view>
       <common>true</common>

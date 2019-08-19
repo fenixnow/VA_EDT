@@ -27,7 +27,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПроверкаРаботыОповещений</types>
+      <types>ExternalDataProcessor.ПроверкаРаботыОповещений</types>
     </valueType>
     <view>
       <common>true</common>

@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Док_ПроверитьЕстьЛиОкноСОшибкой</types>
+      <types>ExternalDataProcessor.Док_ПроверитьЕстьЛиОкноСОшибкой</types>
     </valueType>
     <view>
       <common>true</common>

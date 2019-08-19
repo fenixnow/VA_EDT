@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Issue_149_ДелатьСкриншотПриОшибке</types>
+      <types>ExternalDataProcessor.Issue_149_ДелатьСкриншотПриОшибке</types>
     </valueType>
     <view>
       <common>true</common>
