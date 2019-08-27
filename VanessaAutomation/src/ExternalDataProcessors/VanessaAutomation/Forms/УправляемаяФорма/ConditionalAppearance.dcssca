@@ -88,7 +88,7 @@
 		<appearance>
 			<dcscor:item xsi:type="SettingsParameterValue">
 				<dcscor:parameter>Шрифт</dcscor:parameter>
-				<dcscor:value faceName="Lucida Console" height="10" kind="WindowsFont" ref="sys:DefaultGUIFont" xsi:type="v8ui:Font"/>
+				<dcscor:value xsi:type="v8ui:Font" ref="sys:DefaultGUIFont" faceName="Lucida Console" height="10" kind="WindowsFont"/>
 			</dcscor:item>
 		</appearance>
 	</item>
@@ -158,7 +158,7 @@
 			</dcscor:item>
 			<dcscor:item xsi:type="SettingsParameterValue">
 				<dcscor:parameter>Шрифт</dcscor:parameter>
-				<dcscor:value bold="true" italic="false" kind="WindowsFont" ref="sys:DefaultGUIFont" strikeout="false" underline="false" xsi:type="v8ui:Font"/>
+				<dcscor:value xsi:type="v8ui:Font" ref="sys:DefaultGUIFont" bold="true" italic="false" underline="false" strikeout="false" kind="WindowsFont"/>
 			</dcscor:item>
 		</appearance>
 	</item>
@@ -196,6 +196,31 @@
 			<dcscor:item xsi:type="SettingsParameterValue">
 				<dcscor:parameter>ЦветФона</dcscor:parameter>
 				<dcscor:value xsi:type="v8ui:Color">#FFCC00</dcscor:value>
+			</dcscor:item>
+		</appearance>
+	</item>
+	<item>
+		<selection>
+			<item>
+				<field>ДеревоТестов</field>
+			</item>
+		</selection>
+		<filter>
+			<item xsi:type="FilterItemComparison">
+				<left xsi:type="dcscor:Field">Объект.ДеревоТестов.Имя</left>
+				<comparisonType>BeginsWith</comparisonType>
+				<right xsi:type="xs:string">*</right>
+			</item>
+		</filter>
+		<appearance>
+			<dcscor:item xsi:type="SettingsParameterValue">
+				<dcscor:parameter>ЦветТекста</dcscor:parameter>
+				<dcscor:value xsi:type="v8ui:Color">style:FieldSelectionBackColor</dcscor:value>
+			</dcscor:item>
+			<dcscor:item xsi:type="SettingsParameterValue">
+				<dcscor:use>false</dcscor:use>
+				<dcscor:parameter>Шрифт</dcscor:parameter>
+				<dcscor:value xsi:type="v8ui:Font" ref="sys:DefaultGUIFont" bold="false" italic="false" underline="true" strikeout="false" kind="WindowsFont"/>
 			</dcscor:item>
 		</appearance>
 	</item>

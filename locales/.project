@@ -15,4 +15,11 @@
 		<nature>org.eclipse.xtext.ui.shared.xtextNature</nature>
 		<nature>com._1c.g5.v8.dt.core.V8ExternalObjectsNature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/ExternalDataProcessors/plug</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+	</linkedResources>
 </projectDescription>
