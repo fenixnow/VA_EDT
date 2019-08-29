@@ -6,6 +6,10 @@
     <items xsi:type="form:Table">
       <name>ТаблицаНаФорме</name>
       <id>1</id>
+      <title>
+        <key>ru</key>
+        <value>Таблица на форме</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -194,6 +198,10 @@
     <items xsi:type="form:Table">
       <name>СписокКолонок</name>
       <id>19</id>
+      <title>
+        <key>ru</key>
+        <value>Список колонок</value>
+      </title>
       <visible>true</visible>
       <enabled>true</enabled>
       <userVisible>
@@ -632,7 +640,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.VanessaAutomation</types>
+      <types>ExternalDataProcessor.VanessaAutomation</types>
     </valueType>
     <view>
       <common>true</common>

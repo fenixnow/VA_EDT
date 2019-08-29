@@ -292,7 +292,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.VanessaAutomation</types>
+      <types>ExternalDataProcessor.VanessaAutomation</types>
     </valueType>
     <view>
       <common>true</common>

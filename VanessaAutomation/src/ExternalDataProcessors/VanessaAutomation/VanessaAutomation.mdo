@@ -595,6 +595,10 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате Cucumber по результатам выполнения сценариев.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -607,6 +611,10 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате JUnit по результатам выполнения сценариев.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -619,6 +627,26 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате Allure по результатам выполнения сценариев.</value>
+    </toolTip>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="8d9c572b-0707-4d40-b897-d568e7bec14b">
+    <name>ДелатьОтчетВФорматеСППР</name>
+    <synonym>
+      <key>ru</key>
+      <value>Делать отчет в формате СППР</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате СППР по результатам выполнения сценариев.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1107,15 +1135,21 @@
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
   <attributes uuid="9f4d8881-2be6-4071-b900-8d5e60a31f70">
-    <name>ЗаписьВидеоКомандаFfmpeg</name>
+    <name>ЗаписьВидеоКомандаFFmpeg</name>
     <synonym>
       <key>ru</key>
-      <value>Запись видео команда ffmpeg</value>
+      <value>Запись видео команда FFmpeg</value>
     </synonym>
     <type>
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Команда для работы и обработки видео. Также допускается указание полного пути к файлу ffmpeg.exe
+
+По умолчанию: ffmpeg</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1844,7 +1878,7 @@
     <name>КаталогВыгрузкиAllure</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог output Allure</value>
+      <value>Каталог выгрузки Allure</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1870,7 +1904,7 @@
     <name>КаталогВыгрузкиJUnit</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог output jUnit</value>
+      <value>Каталог выгрузки JUnit</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1883,7 +1917,7 @@
     <name>КаталогВыгрузкиИнструкцийHTML</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог оutput инструкция HTML</value>
+      <value>Каталог выгрузки инструкции HTML</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1896,7 +1930,7 @@
     <name>КаталогВыгрузкиИнструкцийMarkdown</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог оutput инструкция Markdown</value>
+      <value>Каталог выгрузки инструкции Markdown</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1909,7 +1943,7 @@
     <name>КаталогВыгрузкиИнструкцийВидео</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог оutput инструкция видео</value>
+      <value>Каталог выгрузки инструкции видео</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1923,6 +1957,19 @@
     <synonym>
       <key>ru</key>
       <value>Каталог выгрузки скриншотов</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="0d82c63e-1d12-4a50-9d62-235c8d56cb0f">
+    <name>КаталогВыгрузкиСППР</name>
+    <synonym>
+      <key>ru</key>
+      <value>Каталог выгрузки СППР</value>
     </synonym>
     <type>
       <types>String</types>
@@ -2031,7 +2078,7 @@
     </type>
     <toolTip>
       <key>ru</key>
-      <value>Универсальный каталог с дополнительными файлами для проекта. По умолчанию проектом выступает конфигурация для которой разрабатываются тесты.</value>
+      <value>Универсальный каталог с дополнительными файлами для проекта. Проектом по умолчанию выступает конфигурация для которой разрабатываются тесты.</value>
     </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
