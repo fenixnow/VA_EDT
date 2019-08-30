@@ -17130,303 +17130,6 @@
             <name>СтраницаАвтоИнструкции</name>
             <id>656</id>
             <items xsi:type="form:FormGroup">
-              <name>ГруппаSikuliXServer</name>
-              <id>1814</id>
-              <items xsi:type="form:FormField">
-                <name>ИспользоватьSikuliXСервер</name>
-                <id>1811</id>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
-                <dataPath xsi:type="form:MultiLanguageDataPath">
-                  <paths xsi:type="form:DataPath">
-                    <segments>Объект.ИспользоватьSikuliXСервер</segments>
-                  </paths>
-                </dataPath>
-                <titleLocation>Right</titleLocation>
-                <toolTip>
-                  <key>ru</key>
-                  <value>пвапвп</value>
-                </toolTip>
-                <toolTipRepresentation>Button</toolTipRepresentation>
-                <handlers>
-                  <event>OnChange</event>
-                  <name>ИспользоватьSikuliXСерверПриИзменении</name>
-                </handlers>
-                <extendedTooltip>
-                  <name>ИспользоватьSikuliXСерверРасширеннаяПодсказка</name>
-                  <id>1813</id>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
-                  <type>Label</type>
-                  <autoMaxWidth>true</autoMaxWidth>
-                  <autoMaxHeight>true</autoMaxHeight>
-                  <extInfo xsi:type="form:LabelDecorationExtInfo">
-                    <horizontalAlign>Left</horizontalAlign>
-                  </extInfo>
-                </extendedTooltip>
-                <contextMenu>
-                  <name>ИспользоватьSikuliXСерверКонтекстноеМеню</name>
-                  <id>1812</id>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
-                  <autoFill>true</autoFill>
-                </contextMenu>
-                <type>CheckBoxField</type>
-                <editMode>Enter</editMode>
-                <showInHeader>true</showInHeader>
-                <headerHorizontalAlign>Left</headerHorizontalAlign>
-                <showInFooter>true</showInFooter>
-                <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
-              </items>
-              <items xsi:type="form:FormGroup">
-                <name>ГруппаSikuliXServerПодробно</name>
-                <id>2085</id>
-                <items xsi:type="form:FormGroup">
-                  <name>ПутьККаталогуСкриптовSikuliX</name>
-                  <id>2087</id>
-                  <items xsi:type="form:FormField">
-                    <name>КаталогиСкриптовSikuliX</name>
-                    <id>1816</id>
-                    <visible>true</visible>
-                    <enabled>true</enabled>
-                    <userVisible>
-                      <common>true</common>
-                    </userVisible>
-                    <dataPath xsi:type="form:MultiLanguageDataPath">
-                      <paths xsi:type="form:DataPath">
-                        <segments>Объект.КаталогиСкриптовSikuliX</segments>
-                      </paths>
-                    </dataPath>
-                    <toolTip>
-                      <key>ru</key>
-                      <value>Каталог в котором расположены скрипты SikuliX</value>
-                    </toolTip>
-                    <extendedTooltip>
-                      <name>КаталогиСкриптовSikuliXРасширеннаяПодсказка</name>
-                      <id>1818</id>
-                      <visible>true</visible>
-                      <enabled>true</enabled>
-                      <userVisible>
-                        <common>true</common>
-                      </userVisible>
-                      <type>Label</type>
-                      <autoMaxWidth>true</autoMaxWidth>
-                      <autoMaxHeight>true</autoMaxHeight>
-                      <extInfo xsi:type="form:LabelDecorationExtInfo">
-                        <horizontalAlign>Left</horizontalAlign>
-                      </extInfo>
-                    </extendedTooltip>
-                    <contextMenu>
-                      <name>КаталогиСкриптовSikuliXКонтекстноеМеню</name>
-                      <id>1817</id>
-                      <visible>true</visible>
-                      <enabled>true</enabled>
-                      <userVisible>
-                        <common>true</common>
-                      </userVisible>
-                      <autoFill>true</autoFill>
-                    </contextMenu>
-                    <type>InputField</type>
-                    <editMode>Enter</editMode>
-                    <showInHeader>true</showInHeader>
-                    <headerHorizontalAlign>Left</headerHorizontalAlign>
-                    <showInFooter>true</showInFooter>
-                    <extInfo xsi:type="form:InputFieldExtInfo">
-                      <handlers>
-                        <event>StartChoice</event>
-                        <name>КаталогиСкриптовSikuliXНачалоВыбора</name>
-                      </handlers>
-                      <autoMaxWidth>true</autoMaxWidth>
-                      <autoMaxHeight>true</autoMaxHeight>
-                      <wrap>true</wrap>
-                      <choiceButton>true</choiceButton>
-                      <chooseType>true</chooseType>
-                      <typeDomainEnabled>true</typeDomainEnabled>
-                      <textEdit>true</textEdit>
-                    </extInfo>
-                  </items>
-                  <items xsi:type="form:Button">
-                    <name>КаталогиСкриптовSikuliXПоУмолчанию</name>
-                    <id>2089</id>
-                    <visible>true</visible>
-                    <enabled>true</enabled>
-                    <userVisible>
-                      <common>true</common>
-                    </userVisible>
-                    <extendedTooltip>
-                      <name>КаталогиСкриптовSikuliXПоУмолчаниюРасширеннаяПодсказка</name>
-                      <id>2084</id>
-                      <visible>true</visible>
-                      <enabled>true</enabled>
-                      <userVisible>
-                        <common>true</common>
-                      </userVisible>
-                      <type>Label</type>
-                      <autoMaxWidth>true</autoMaxWidth>
-                      <autoMaxHeight>true</autoMaxHeight>
-                      <extInfo xsi:type="form:LabelDecorationExtInfo">
-                        <horizontalAlign>Left</horizontalAlign>
-                      </extInfo>
-                    </extendedTooltip>
-                    <type>UsualButton</type>
-                    <commandName>Form.Command.КаталогиСкриптовSikuliXПоУмолчанию</commandName>
-                    <representation>Picture</representation>
-                    <autoMaxWidth>true</autoMaxWidth>
-                    <autoMaxHeight>true</autoMaxHeight>
-                    <placementArea>UserCmds</placementArea>
-                    <representationInContextMenu>Auto</representationInContextMenu>
-                  </items>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
-                  <title>
-                    <key>ru</key>
-                    <value>Путь к каталогу скриптов sikuli x</value>
-                  </title>
-                  <extendedTooltip>
-                    <name>ПутьККаталогуСкриптовSikuliXРасширеннаяПодсказка</name>
-                    <id>2088</id>
-                    <visible>true</visible>
-                    <enabled>true</enabled>
-                    <userVisible>
-                      <common>true</common>
-                    </userVisible>
-                    <type>Label</type>
-                    <autoMaxWidth>true</autoMaxWidth>
-                    <autoMaxHeight>true</autoMaxHeight>
-                    <extInfo xsi:type="form:LabelDecorationExtInfo">
-                      <horizontalAlign>Left</horizontalAlign>
-                    </extInfo>
-                  </extendedTooltip>
-                  <type>UsualGroup</type>
-                  <extInfo xsi:type="form:UsualGroupExtInfo">
-                    <group>AlwaysHorizontal</group>
-                    <showLeftMargin>true</showLeftMargin>
-                    <united>true</united>
-                    <throughAlign>Auto</throughAlign>
-                    <currentRowUse>DontUse</currentRowUse>
-                  </extInfo>
-                </items>
-                <items xsi:type="form:Button">
-                  <name>СброситьПодключениеSikuliXСервера</name>
-                  <id>1822</id>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
-                  <extendedTooltip>
-                    <name>СброситьПодключениеSikuliXСервераРасширеннаяПодсказка</name>
-                    <id>1823</id>
-                    <visible>true</visible>
-                    <enabled>true</enabled>
-                    <userVisible>
-                      <common>true</common>
-                    </userVisible>
-                    <type>Label</type>
-                    <autoMaxWidth>true</autoMaxWidth>
-                    <autoMaxHeight>true</autoMaxHeight>
-                    <extInfo xsi:type="form:LabelDecorationExtInfo">
-                      <horizontalAlign>Left</horizontalAlign>
-                    </extInfo>
-                  </extendedTooltip>
-                  <type>UsualButton</type>
-                  <commandName>Form.Command.СброситьПодключениеSikuliXСервера</commandName>
-                  <representation>Auto</representation>
-                  <autoMaxWidth>true</autoMaxWidth>
-                  <autoMaxHeight>true</autoMaxHeight>
-                  <placementArea>UserCmds</placementArea>
-                  <representationInContextMenu>Auto</representationInContextMenu>
-                </items>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
-                <title>
-                  <key>ru</key>
-                  <value>Sikuli x server подробно</value>
-                </title>
-                <extendedTooltip>
-                  <name>ГруппаSikuliXServerПодробноРасширеннаяПодсказка</name>
-                  <id>2086</id>
-                  <visible>true</visible>
-                  <enabled>true</enabled>
-                  <userVisible>
-                    <common>true</common>
-                  </userVisible>
-                  <type>Label</type>
-                  <autoMaxWidth>true</autoMaxWidth>
-                  <autoMaxHeight>true</autoMaxHeight>
-                  <extInfo xsi:type="form:LabelDecorationExtInfo">
-                    <horizontalAlign>Left</horizontalAlign>
-                  </extInfo>
-                </extendedTooltip>
-                <type>UsualGroup</type>
-                <extInfo xsi:type="form:UsualGroupExtInfo">
-                  <group>Vertical</group>
-                  <showLeftMargin>true</showLeftMargin>
-                  <united>true</united>
-                  <currentRowUse>DontUse</currentRowUse>
-                </extInfo>
-              </items>
-              <visible>true</visible>
-              <enabled>true</enabled>
-              <userVisible>
-                <common>true</common>
-              </userVisible>
-              <title>
-                <key>ru</key>
-                <value>SikuliX server</value>
-              </title>
-              <title>
-                <key>en</key>
-                <value>SikuliX server</value>
-              </title>
-              <toolTip>
-                <key>ru</key>
-                <value>Подсказка</value>
-              </toolTip>
-              <extendedTooltip>
-                <name>ГруппаSikuliXServerРасширеннаяПодсказка</name>
-                <id>1815</id>
-                <visible>true</visible>
-                <enabled>true</enabled>
-                <userVisible>
-                  <common>true</common>
-                </userVisible>
-                <type>Label</type>
-                <autoMaxWidth>true</autoMaxWidth>
-                <autoMaxHeight>true</autoMaxHeight>
-                <extInfo xsi:type="form:LabelDecorationExtInfo">
-                  <horizontalAlign>Left</horizontalAlign>
-                </extInfo>
-              </extendedTooltip>
-              <type>UsualGroup</type>
-              <extInfo xsi:type="form:UsualGroupExtInfo">
-                <group>Vertical</group>
-                <behavior>Collapsible</behavior>
-                <controlRepresentation>Picture</controlRepresentation>
-                <representation>WeakSeparation</representation>
-                <showLeftMargin>true</showLeftMargin>
-                <united>true</united>
-                <showTitle>true</showTitle>
-                <throughAlign>Auto</throughAlign>
-                <currentRowUse>DontUse</currentRowUse>
-              </extInfo>
-            </items>
-            <items xsi:type="form:FormGroup">
               <name>HTMLИMarkdown</name>
               <id>658</id>
               <items xsi:type="form:FormGroup">
@@ -18084,7 +17787,6 @@
               <extInfo xsi:type="form:UsualGroupExtInfo">
                 <group>Vertical</group>
                 <behavior>Collapsible</behavior>
-                <collapsed>true</collapsed>
                 <controlRepresentation>Picture</controlRepresentation>
                 <representation>WeakSeparation</representation>
                 <showLeftMargin>true</showLeftMargin>
@@ -23279,6 +22981,296 @@
                       <showTitle>true</showTitle>
                     </extInfo>
                   </items>
+                  <items xsi:type="form:FormGroup">
+                    <name>НастройкаSikuliX</name>
+                    <id>1814</id>
+                    <items xsi:type="form:FormField">
+                      <name>ИспользоватьSikuliXСервер</name>
+                      <id>1811</id>
+                      <visible>true</visible>
+                      <enabled>true</enabled>
+                      <userVisible>
+                        <common>true</common>
+                      </userVisible>
+                      <dataPath xsi:type="form:MultiLanguageDataPath">
+                        <paths xsi:type="form:DataPath">
+                          <segments>Объект.ИспользоватьSikuliXСервер</segments>
+                        </paths>
+                      </dataPath>
+                      <titleLocation>Right</titleLocation>
+                      <toolTip>
+                        <key>ru</key>
+                        <value>пвапвп</value>
+                      </toolTip>
+                      <toolTipRepresentation>Button</toolTipRepresentation>
+                      <handlers>
+                        <event>OnChange</event>
+                        <name>ИспользоватьSikuliXСерверПриИзменении</name>
+                      </handlers>
+                      <extendedTooltip>
+                        <name>ИспользоватьSikuliXСерверРасширеннаяПодсказка</name>
+                        <id>1813</id>
+                        <visible>true</visible>
+                        <enabled>true</enabled>
+                        <userVisible>
+                          <common>true</common>
+                        </userVisible>
+                        <type>Label</type>
+                        <autoMaxWidth>true</autoMaxWidth>
+                        <autoMaxHeight>true</autoMaxHeight>
+                        <extInfo xsi:type="form:LabelDecorationExtInfo">
+                          <horizontalAlign>Left</horizontalAlign>
+                        </extInfo>
+                      </extendedTooltip>
+                      <contextMenu>
+                        <name>ИспользоватьSikuliXСерверКонтекстноеМеню</name>
+                        <id>1812</id>
+                        <visible>true</visible>
+                        <enabled>true</enabled>
+                        <userVisible>
+                          <common>true</common>
+                        </userVisible>
+                        <autoFill>true</autoFill>
+                      </contextMenu>
+                      <type>CheckBoxField</type>
+                      <editMode>Enter</editMode>
+                      <showInHeader>true</showInHeader>
+                      <headerHorizontalAlign>Left</headerHorizontalAlign>
+                      <showInFooter>true</showInFooter>
+                      <extInfo xsi:type="form:CheckBoxFieldExtInfo"/>
+                    </items>
+                    <items xsi:type="form:FormGroup">
+                      <name>ГруппаSikuliXServerПодробно</name>
+                      <id>2085</id>
+                      <items xsi:type="form:FormGroup">
+                        <name>ПутьККаталогуСкриптовSikuliX</name>
+                        <id>2087</id>
+                        <items xsi:type="form:FormField">
+                          <name>КаталогиСкриптовSikuliX</name>
+                          <id>1816</id>
+                          <visible>true</visible>
+                          <enabled>true</enabled>
+                          <userVisible>
+                            <common>true</common>
+                          </userVisible>
+                          <dataPath xsi:type="form:MultiLanguageDataPath">
+                            <paths xsi:type="form:DataPath">
+                              <segments>Объект.КаталогиСкриптовSikuliX</segments>
+                            </paths>
+                          </dataPath>
+                          <toolTip>
+                            <key>ru</key>
+                            <value>Каталог в котором расположены скрипты SikuliX</value>
+                          </toolTip>
+                          <extendedTooltip>
+                            <name>КаталогиСкриптовSikuliXРасширеннаяПодсказка</name>
+                            <id>1818</id>
+                            <visible>true</visible>
+                            <enabled>true</enabled>
+                            <userVisible>
+                              <common>true</common>
+                            </userVisible>
+                            <type>Label</type>
+                            <autoMaxWidth>true</autoMaxWidth>
+                            <autoMaxHeight>true</autoMaxHeight>
+                            <extInfo xsi:type="form:LabelDecorationExtInfo">
+                              <horizontalAlign>Left</horizontalAlign>
+                            </extInfo>
+                          </extendedTooltip>
+                          <contextMenu>
+                            <name>КаталогиСкриптовSikuliXКонтекстноеМеню</name>
+                            <id>1817</id>
+                            <visible>true</visible>
+                            <enabled>true</enabled>
+                            <userVisible>
+                              <common>true</common>
+                            </userVisible>
+                            <autoFill>true</autoFill>
+                          </contextMenu>
+                          <type>InputField</type>
+                          <editMode>Enter</editMode>
+                          <showInHeader>true</showInHeader>
+                          <headerHorizontalAlign>Left</headerHorizontalAlign>
+                          <showInFooter>true</showInFooter>
+                          <extInfo xsi:type="form:InputFieldExtInfo">
+                            <handlers>
+                              <event>StartChoice</event>
+                              <name>КаталогиСкриптовSikuliXНачалоВыбора</name>
+                            </handlers>
+                            <autoMaxWidth>true</autoMaxWidth>
+                            <autoMaxHeight>true</autoMaxHeight>
+                            <wrap>true</wrap>
+                            <choiceButton>true</choiceButton>
+                            <chooseType>true</chooseType>
+                            <typeDomainEnabled>true</typeDomainEnabled>
+                            <textEdit>true</textEdit>
+                          </extInfo>
+                        </items>
+                        <items xsi:type="form:Button">
+                          <name>КаталогиСкриптовSikuliXПоУмолчанию</name>
+                          <id>2089</id>
+                          <visible>true</visible>
+                          <enabled>true</enabled>
+                          <userVisible>
+                            <common>true</common>
+                          </userVisible>
+                          <extendedTooltip>
+                            <name>КаталогиСкриптовSikuliXПоУмолчаниюРасширеннаяПодсказка</name>
+                            <id>2084</id>
+                            <visible>true</visible>
+                            <enabled>true</enabled>
+                            <userVisible>
+                              <common>true</common>
+                            </userVisible>
+                            <type>Label</type>
+                            <autoMaxWidth>true</autoMaxWidth>
+                            <autoMaxHeight>true</autoMaxHeight>
+                            <extInfo xsi:type="form:LabelDecorationExtInfo">
+                              <horizontalAlign>Left</horizontalAlign>
+                            </extInfo>
+                          </extendedTooltip>
+                          <type>UsualButton</type>
+                          <commandName>Form.Command.КаталогиСкриптовSikuliXПоУмолчанию</commandName>
+                          <representation>Picture</representation>
+                          <autoMaxWidth>true</autoMaxWidth>
+                          <autoMaxHeight>true</autoMaxHeight>
+                          <placementArea>UserCmds</placementArea>
+                          <representationInContextMenu>Auto</representationInContextMenu>
+                        </items>
+                        <visible>true</visible>
+                        <enabled>true</enabled>
+                        <userVisible>
+                          <common>true</common>
+                        </userVisible>
+                        <title>
+                          <key>ru</key>
+                          <value>Путь к каталогу скриптов sikuli x</value>
+                        </title>
+                        <extendedTooltip>
+                          <name>ПутьККаталогуСкриптовSikuliXРасширеннаяПодсказка</name>
+                          <id>2088</id>
+                          <visible>true</visible>
+                          <enabled>true</enabled>
+                          <userVisible>
+                            <common>true</common>
+                          </userVisible>
+                          <type>Label</type>
+                          <autoMaxWidth>true</autoMaxWidth>
+                          <autoMaxHeight>true</autoMaxHeight>
+                          <extInfo xsi:type="form:LabelDecorationExtInfo">
+                            <horizontalAlign>Left</horizontalAlign>
+                          </extInfo>
+                        </extendedTooltip>
+                        <type>UsualGroup</type>
+                        <extInfo xsi:type="form:UsualGroupExtInfo">
+                          <group>AlwaysHorizontal</group>
+                          <showLeftMargin>true</showLeftMargin>
+                          <united>true</united>
+                          <throughAlign>Auto</throughAlign>
+                          <currentRowUse>DontUse</currentRowUse>
+                        </extInfo>
+                      </items>
+                      <items xsi:type="form:Button">
+                        <name>СброситьПодключениеSikuliXСервера</name>
+                        <id>1822</id>
+                        <visible>true</visible>
+                        <enabled>true</enabled>
+                        <userVisible>
+                          <common>true</common>
+                        </userVisible>
+                        <extendedTooltip>
+                          <name>СброситьПодключениеSikuliXСервераРасширеннаяПодсказка</name>
+                          <id>1823</id>
+                          <visible>true</visible>
+                          <enabled>true</enabled>
+                          <userVisible>
+                            <common>true</common>
+                          </userVisible>
+                          <type>Label</type>
+                          <autoMaxWidth>true</autoMaxWidth>
+                          <autoMaxHeight>true</autoMaxHeight>
+                          <extInfo xsi:type="form:LabelDecorationExtInfo">
+                            <horizontalAlign>Left</horizontalAlign>
+                          </extInfo>
+                        </extendedTooltip>
+                        <type>UsualButton</type>
+                        <commandName>Form.Command.СброситьПодключениеSikuliXСервера</commandName>
+                        <representation>Auto</representation>
+                        <autoMaxWidth>true</autoMaxWidth>
+                        <autoMaxHeight>true</autoMaxHeight>
+                        <placementArea>UserCmds</placementArea>
+                        <representationInContextMenu>Auto</representationInContextMenu>
+                      </items>
+                      <visible>true</visible>
+                      <enabled>true</enabled>
+                      <userVisible>
+                        <common>true</common>
+                      </userVisible>
+                      <title>
+                        <key>ru</key>
+                        <value>Sikuli x server подробно</value>
+                      </title>
+                      <extendedTooltip>
+                        <name>ГруппаSikuliXServerПодробноРасширеннаяПодсказка</name>
+                        <id>2086</id>
+                        <visible>true</visible>
+                        <enabled>true</enabled>
+                        <userVisible>
+                          <common>true</common>
+                        </userVisible>
+                        <type>Label</type>
+                        <autoMaxWidth>true</autoMaxWidth>
+                        <autoMaxHeight>true</autoMaxHeight>
+                        <extInfo xsi:type="form:LabelDecorationExtInfo">
+                          <horizontalAlign>Left</horizontalAlign>
+                        </extInfo>
+                      </extendedTooltip>
+                      <type>UsualGroup</type>
+                      <extInfo xsi:type="form:UsualGroupExtInfo">
+                        <group>Vertical</group>
+                        <showLeftMargin>true</showLeftMargin>
+                        <united>true</united>
+                        <currentRowUse>DontUse</currentRowUse>
+                      </extInfo>
+                    </items>
+                    <visible>true</visible>
+                    <enabled>true</enabled>
+                    <userVisible>
+                      <common>true</common>
+                    </userVisible>
+                    <title>
+                      <key>en</key>
+                      <value>SikuliX server</value>
+                    </title>
+                    <title>
+                      <key>ru</key>
+                      <value>SikuliX</value>
+                    </title>
+                    <toolTip>
+                      <key>ru</key>
+                      <value>Подсказка</value>
+                    </toolTip>
+                    <extendedTooltip>
+                      <name>НастройкаSikuliXРасширеннаяПодсказка</name>
+                      <id>1815</id>
+                      <visible>true</visible>
+                      <enabled>true</enabled>
+                      <userVisible>
+                        <common>true</common>
+                      </userVisible>
+                      <type>Label</type>
+                      <autoMaxWidth>true</autoMaxWidth>
+                      <autoMaxHeight>true</autoMaxHeight>
+                      <extInfo xsi:type="form:LabelDecorationExtInfo">
+                        <horizontalAlign>Left</horizontalAlign>
+                      </extInfo>
+                    </extendedTooltip>
+                    <type>Page</type>
+                    <extInfo xsi:type="form:PageGroupExtInfo">
+                      <group>Vertical</group>
+                      <showTitle>true</showTitle>
+                    </extInfo>
+                  </items>
                   <visible>true</visible>
                   <enabled>true</enabled>
                   <userVisible>
@@ -23337,7 +23329,7 @@
                 </extendedTooltip>
                 <type>UsualGroup</type>
                 <extInfo xsi:type="form:UsualGroupExtInfo">
-                  <group>HorizontalIfPossible</group>
+                  <group>Vertical</group>
                   <showLeftMargin>true</showLeftMargin>
                   <united>true</united>
                   <currentRowUse>DontUse</currentRowUse>
@@ -23474,6 +23466,11 @@
               <key>ru</key>
               <value>Автоинструкции</value>
             </title>
+            <toolTip>
+              <key>ru</key>
+              <value>роопо</value>
+            </toolTip>
+            <toolTipRepresentation>Button</toolTipRepresentation>
             <extendedTooltip>
               <name>СтраницаАвтоИнструкцииРасширеннаяПодсказка</name>
               <id>1400</id>
@@ -23486,6 +23483,10 @@
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
               <extInfo xsi:type="form:LabelDecorationExtInfo">
+                <handlers>
+                  <event>Click</event>
+                  <name>СтраницаАвтоИнструкцииРасширеннаяПодсказкаНажатие</name>
+                </handlers>
                 <horizontalAlign>Left</horizontalAlign>
               </extInfo>
             </extendedTooltip>
