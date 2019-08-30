@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПроверкаПодключенияУжеПодключенногоTestClient</types>
+      <types>ExternalDataProcessor.ПроверкаПодключенияУжеПодключенногоTestClient</types>
     </valueType>
     <view>
       <common>true</common>

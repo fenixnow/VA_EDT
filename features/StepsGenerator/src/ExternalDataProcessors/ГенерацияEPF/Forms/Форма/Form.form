@@ -71,7 +71,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ГенерацияEPF</types>
+      <types>ExternalDataProcessor.ГенерацияEPF</types>
     </valueType>
     <view>
       <common>true</common>

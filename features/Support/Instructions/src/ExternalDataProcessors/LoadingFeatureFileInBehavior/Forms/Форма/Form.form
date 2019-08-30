@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.LoadingFeatureFileInBehavior</types>
+      <types>ExternalDataProcessor.LoadingFeatureFileInBehavior</types>
     </valueType>
     <view>
       <common>true</common>

@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ФичаДляПроверкиОтчетаAllure6</types>
+      <types>ExternalDataProcessor.ФичаДляПроверкиОтчетаAllure6</types>
     </valueType>
     <view>
       <common>true</common>

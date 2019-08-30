@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Issue_461_Обработка_временной_фичи</types>
+      <types>ExternalDataProcessor.Issue_461_Обработка_временной_фичи</types>
     </valueType>
     <view>
       <common>true</common>

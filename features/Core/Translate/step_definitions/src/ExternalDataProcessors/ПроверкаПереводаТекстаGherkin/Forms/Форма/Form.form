@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПроверкаПереводаТекстаGherkin</types>
+      <types>ExternalDataProcessor.ПроверкаПереводаТекстаGherkin</types>
     </valueType>
     <view>
       <common>true</common>

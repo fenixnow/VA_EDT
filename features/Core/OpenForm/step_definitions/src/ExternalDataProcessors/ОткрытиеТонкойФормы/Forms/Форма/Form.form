@@ -71,7 +71,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ОткрытиеТонкойФормы</types>
+      <types>ExternalDataProcessor.ОткрытиеТонкойФормы</types>
     </valueType>
     <view>
       <common>true</common>

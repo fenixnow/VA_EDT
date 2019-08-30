@@ -595,6 +595,10 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате Cucumber по результатам выполнения сценариев.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -607,6 +611,10 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате JUnit по результатам выполнения сценариев.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -619,6 +627,26 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате Allure по результатам выполнения сценариев.</value>
+    </toolTip>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="8d9c572b-0707-4d40-b897-d568e7bec14b">
+    <name>ДелатьОтчетВФорматеСППР</name>
+    <synonym>
+      <key>ru</key>
+      <value>Делать отчет в формате СППР</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Формировать отчет в формате СППР по результатам выполнения сценариев.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -865,6 +893,13 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Голос синтезированной речи.
+
+- женские голоса: alyss, jane, oksana и omazh;
+- мужские голоса: zahar и ermil.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -903,6 +938,12 @@
         <nonNegative>true</nonNegative>
       </numberQualifiers>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Скорость (темп) синтезированной речи.
+
+Скорость речи задается дробным числом в диапазоне от 0.1 до 3.0.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -920,6 +961,14 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Эмоциональная окраска голоса.
+
+- good — радостный, доброжелательный;
+- evil — раздраженный;
+- neutral — нейтральный.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1002,6 +1051,10 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Добавляет в видео текстовые субтитры с описанием выполняемых шагов</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1028,6 +1081,10 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Каталог в которой будут сохранены файлы на время формирования видеоинструкций.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1070,19 +1127,29 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Расширенная подсказка</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
   <attributes uuid="9f4d8881-2be6-4071-b900-8d5e60a31f70">
-    <name>ЗаписьВидеоКомандаFfmpeg</name>
+    <name>ЗаписьВидеоКомандаFFmpeg</name>
     <synonym>
       <key>ru</key>
-      <value>Запись видео команда ffmpeg</value>
+      <value>Запись видео команда FFmpeg</value>
     </synonym>
     <type>
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Команда для работы и обработки видео. Также допускается указание полного пути к файлу ffmpeg.exe
+
+По умолчанию: ffmpeg</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1145,6 +1212,10 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Признак кеширования озвучивания в файлах на локальном диске.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1162,6 +1233,10 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Путь к каталогу кеширования озвучивания.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1194,6 +1269,10 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Отключает слайд видеоинструкции в начале видео с информацией из блока &quot;Функционал&quot; файла фичи</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1210,6 +1289,30 @@
     <type>
       <types>Boolean</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Отключает слайд видеоинструкции с информацией о заголовке сценария</value>
+    </toolTip>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="3e625eac-f6bc-41de-b12c-1e408e075a7a">
+    <name>ЗаписьВидеоОтключитьСлайдФинал</name>
+    <synonym>
+      <key>ru</key>
+      <value>Отключить слайд финал</value>
+    </synonym>
+    <synonym>
+      <key>en</key>
+      <value>Turn off scenario slide</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Отключает слайд видеоинструкции в конце видео с инфорамцией по сборке сценария</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1302,7 +1405,7 @@
     <name>ЗаписьВидеоСкоростьПроизношения</name>
     <synonym>
       <key>ru</key>
-      <value>Скорость произношения</value>
+      <value>Скорость</value>
     </synonym>
     <synonym>
       <key>en</key>
@@ -1775,7 +1878,7 @@
     <name>КаталогВыгрузкиAllure</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог output Allure</value>
+      <value>Каталог выгрузки Allure</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1801,7 +1904,7 @@
     <name>КаталогВыгрузкиJUnit</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог output jUnit</value>
+      <value>Каталог выгрузки JUnit</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1814,7 +1917,7 @@
     <name>КаталогВыгрузкиИнструкцийHTML</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог оutput инструкция HTML</value>
+      <value>Каталог выгрузки инструкции HTML</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1827,7 +1930,7 @@
     <name>КаталогВыгрузкиИнструкцийMarkdown</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог оutput инструкция Markdown</value>
+      <value>Каталог выгрузки инструкции Markdown</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1840,7 +1943,7 @@
     <name>КаталогВыгрузкиИнструкцийВидео</name>
     <synonym>
       <key>ru</key>
-      <value>Каталог оutput инструкция видео</value>
+      <value>Каталог выгрузки инструкции видео</value>
     </synonym>
     <type>
       <types>String</types>
@@ -1862,6 +1965,19 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
+  <attributes uuid="0d82c63e-1d12-4a50-9d62-235c8d56cb0f">
+    <name>КаталогВыгрузкиСППР</name>
+    <synonym>
+      <key>ru</key>
+      <value>Каталог выгрузки СППР</value>
+    </synonym>
+    <type>
+      <types>String</types>
+      <stringQualifiers/>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
   <attributes uuid="8f038ea1-e2cb-4d4e-85e5-de99851c076e">
     <name>КаталогиБиблиотек</name>
     <synonym>
@@ -1871,6 +1987,10 @@
     <type>
       <types>ValueList</types>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Каталог с файлами библиотек.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1888,6 +2008,10 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Каталог относительно которого будет строиться путь к дополнительным файлам фреймворка. По умолчанию является каталогом содержащим основную обработку VA.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -1952,6 +2076,10 @@
       <types>String</types>
       <stringQualifiers/>
     </type>
+    <toolTip>
+      <key>ru</key>
+      <value>Универсальный каталог с дополнительными файлами для проекта. Проектом по умолчанию выступает конфигурация для которой разрабатываются тесты.</value>
+    </toolTip>
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
@@ -2628,6 +2756,38 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
+  <attributes uuid="ad87a9d5-bb7e-4eac-8fad-b6694aa2cf71">
+    <name>СобиратьДанныеОСостоянииАктивнойФормыПриОшибке</name>
+    <synonym>
+      <key>ru</key>
+      <value>Собирать данные о состоянии активной формы при ошибке</value>
+    </synonym>
+    <synonym>
+      <key>en</key>
+      <value>Get active form data on error</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
+  <attributes uuid="2a993ca6-bdbc-4e38-b2b6-adce7320e276">
+    <name>СобиратьДанныеОСостоянииВсехФормПриОшибке</name>
+    <synonym>
+      <key>ru</key>
+      <value>Собирать данные о состоянии всех форм при ошибке</value>
+    </synonym>
+    <synonym>
+      <key>en</key>
+      <value>Get all forms data on error</value>
+    </synonym>
+    <type>
+      <types>Boolean</types>
+    </type>
+    <minValue xsi:type="core:UndefinedValue"/>
+    <maxValue xsi:type="core:UndefinedValue"/>
+  </attributes>
   <attributes uuid="260d4c6d-de55-4638-b304-609476bac030">
     <name>СоздаватьЗакоментированныйКодДляПереиспользуемыхПроцедур</name>
     <synonym>
@@ -3211,38 +3371,6 @@
     <minValue xsi:type="core:UndefinedValue"/>
     <maxValue xsi:type="core:UndefinedValue"/>
   </attributes>
-  <attributes uuid="ad87a9d5-bb7e-4eac-8fad-b6694aa2cf71">
-    <name>СобиратьДанныеОСостоянииАктивнойФормыПриОшибке</name>
-    <synonym>
-      <key>ru</key>
-      <value>Собирать данные о состоянии активной формы при ошибке</value>
-    </synonym>
-    <synonym>
-      <key>en</key>
-      <value>Get active form data on error</value>
-    </synonym>
-    <type>
-      <types>Boolean</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-  </attributes>
-  <attributes uuid="2a993ca6-bdbc-4e38-b2b6-adce7320e276">
-    <name>СобиратьДанныеОСостоянииВсехФормПриОшибке</name>
-    <synonym>
-      <key>ru</key>
-      <value>Собирать данные о состоянии всех форм при ошибке</value>
-    </synonym>
-    <synonym>
-      <key>en</key>
-      <value>Get all forms data on error</value>
-    </synonym>
-    <type>
-      <types>Boolean</types>
-    </type>
-    <minValue xsi:type="core:UndefinedValue"/>
-    <maxValue xsi:type="core:UndefinedValue"/>
-  </attributes>
   <forms uuid="813effc7-9383-4845-a4fa-2f5481e5a12b">
     <name>Форма</name>
     <synonym>
@@ -3405,6 +3533,15 @@
     <synonym>
       <key>ru</key>
       <value>SikuliX север</value>
+    </synonym>
+    <usePurposes>PersonalComputer</usePurposes>
+    <usePurposes>MobileDevice</usePurposes>
+  </forms>
+  <forms uuid="78879091-4cfb-4209-a23f-577a84bb1909">
+    <name>ГенераторТестов</name>
+    <synonym>
+      <key>ru</key>
+      <value>Генератор тестов</value>
     </synonym>
     <usePurposes>PersonalComputer</usePurposes>
     <usePurposes>MobileDevice</usePurposes>

@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:core="http://g5.1c.ru/v8/dt/mcore" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <title>
-    <key>bg</key>
-    <value>Изследовател форма</value>
-  </title>
-  <title>
-    <key>mn</key>
-    <value>Тус судлаач нь хэлбэр</value>
-  </title>
-  <title>
-    <key>fr</key>
-    <value>Le chercheur de la forme</value>
-  </title>
-  <title>
-    <key>pl</key>
-    <value>Badacz formy</value>
-  </title>
-  <title>
-    <key>tr</key>
-    <value>Araştırmacı formu</value>
+    <key>ru</key>
+    <value>Исследователь формы</value>
   </title>
   <title>
     <key>en</key>
     <value>Form explorer</value>
   </title>
   <title>
-    <key>ka</key>
-    <value>მკვლევარი არის ფორმა</value>
-  </title>
-  <title>
-    <key>it</key>
-    <value>Ricercatore di forma</value>
-  </title>
-  <title>
-    <key>sl</key>
-    <value>Raziskovalec je obrazca</value>
-  </title>
-  <title>
-    <key>de</key>
-    <value>Forscher Formen</value>
-  </title>
-  <title>
     <key>am</key>
     <value>ወደ researcher ነው ቅጽ</value>
-  </title>
-  <title>
-    <key>es</key>
-    <value>El investigador del formulario</value>
-  </title>
-  <title>
-    <key>et</key>
-    <value>Teadlane vormi</value>
-  </title>
-  <title>
-    <key>vi</key>
-    <value>Các nhà nghiên cứu biểu mẫu</value>
-  </title>
-  <title>
-    <key>lt</key>
-    <value>Mokslininkė formos</value>
-  </title>
-  <title>
-    <key>lv</key>
-    <value>Pētnieks formas</value>
-  </title>
-  <title>
-    <key>sv</key>
-    <value>Forskaren är den form</value>
-  </title>
-  <title>
-    <key>hu</key>
-    <value>A kutató a forma</value>
   </title>
   <title>
     <key>az</key>
     <value>Tədqiqatçı formaları</value>
   </title>
   <title>
+    <key>bg</key>
+    <value>Изследовател форма</value>
+  </title>
+  <title>
+    <key>et</key>
+    <value>Teadlane vormi</value>
+  </title>
+  <title>
+    <key>fr</key>
+    <value>Le chercheur de la forme</value>
+  </title>
+  <title>
+    <key>ka</key>
+    <value>მკვლევარი არის ფორმა</value>
+  </title>
+  <title>
+    <key>de</key>
+    <value>Forscher Formen</value>
+  </title>
+  <title>
+    <key>hu</key>
+    <value>A kutató a forma</value>
+  </title>
+  <title>
+    <key>it</key>
+    <value>Ricercatore di forma</value>
+  </title>
+  <title>
+    <key>lv</key>
+    <value>Pētnieks formas</value>
+  </title>
+  <title>
+    <key>lt</key>
+    <value>Mokslininkė formos</value>
+  </title>
+  <title>
+    <key>mn</key>
+    <value>Тус судлаач нь хэлбэр</value>
+  </title>
+  <title>
+    <key>pl</key>
+    <value>Badacz formy</value>
+  </title>
+  <title>
     <key>ro</key>
     <value>Cercetător forme</value>
   </title>
   <title>
-    <key>ru</key>
-    <value>Исследователь формы</value>
+    <key>sl</key>
+    <value>Raziskovalec je obrazca</value>
+  </title>
+  <title>
+    <key>es</key>
+    <value>El investigador del formulario</value>
+  </title>
+  <title>
+    <key>sv</key>
+    <value>Forskaren är den form</value>
+  </title>
+  <title>
+    <key>tr</key>
+    <value>Araştırmacı formu</value>
+  </title>
+  <title>
+    <key>vi</key>
+    <value>Các nhà nghiên cứu biểu mẫu</value>
   </title>
   <items xsi:type="form:FormGroup">
     <name>ГруппаЗаголовокИмяФормы</name>
@@ -91,88 +91,88 @@
       <name>АктивноеОкноЗаголовок</name>
       <id>52</id>
       <title>
-        <key>bg</key>
-        <value>Заглавната лента на прозореца.</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Цонхны гарчиг</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>Le titre de la fenêtre</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Tytuł okna</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Pencere başlığı</value>
+        <key>ru</key>
+        <value>Заголовок окна</value>
       </title>
       <title>
         <key>en</key>
         <value>Window caption</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>Window title</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Il titolo della finestra</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Naslov okna</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Fenstertitel</value>
-      </title>
-      <title>
         <key>am</key>
         <value>መስኮት ርዕስ</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>El título de la ventana</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Akna pealkiri</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Tiêu đề cửa sổ</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Lango antraštė</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Virsraksts logi</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Fönstret titel</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>Az ablak címe</value>
       </title>
       <title>
         <key>az</key>
         <value>Mövzu pəncərə</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Заглавната лента на прозореца.</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Akna pealkiri</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>Le titre de la fenêtre</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>Window title</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Fenstertitel</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>Az ablak címe</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>Il titolo della finestra</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Virsraksts logi</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Lango antraštė</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Цонхны гарчиг</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Tytuł okna</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Titlul ferestrei</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Заголовок окна</value>
+        <key>sl</key>
+        <value>Naslov okna</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>El título de la ventana</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Fönstret titel</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Pencere başlığı</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Tiêu đề cửa sổ</value>
       </title>
       <titleTextColor xsi:type="core:ColorRef">
         <color>Style.FieldSelectionBackColor</color>
@@ -231,88 +231,88 @@
       <name>ЗаголовокФормы</name>
       <id>55</id>
       <title>
-        <key>bg</key>
-        <value>Заглавие форми</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Толгой хэлбэрээр</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>L'en-tête de la forme</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Nagłówek formularza</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Form üstbilgisi</value>
+        <key>ru</key>
+        <value>Заголовок формы</value>
       </title>
       <title>
         <key>en</key>
         <value>Form caption</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>Header ფორმა</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Titolo del modulo</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>V glavi obrazca</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Formulartitel</value>
-      </title>
-      <title>
         <key>am</key>
         <value>ሰዎች አናት ነው ቅጽ</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>Título del formulario</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Vormi pealkiri</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Tiêu đề biểu mẫu</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Antraštė formos</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Virsraksts formas</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Huvudet i form</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>A fejléc a forma</value>
       </title>
       <title>
         <key>az</key>
         <value>Mövzu və forma</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Заглавие форми</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Vormi pealkiri</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>L'en-tête de la forme</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>Header ფორმა</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Formulartitel</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>A fejléc a forma</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>Titolo del modulo</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Virsraksts formas</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Antraštė formos</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Толгой хэлбэрээр</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Nagłówek formularza</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Titlul forme de</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Заголовок формы</value>
+        <key>sl</key>
+        <value>V glavi obrazca</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>Título del formulario</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Huvudet i form</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Form üstbilgisi</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Tiêu đề biểu mẫu</value>
       </title>
       <titleTextColor xsi:type="core:ColorRef">
         <color>Style.FieldSelectionBackColor</color>
@@ -371,88 +371,88 @@
       <name>ИмяТекущейФормы</name>
       <id>58</id>
       <title>
-        <key>bg</key>
-        <value>Името на формата</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Нэр хэлбэр</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>Le nom de la forme</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Nazwa formularza</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Form adı</value>
+        <key>ru</key>
+        <value>Имя формы</value>
       </title>
       <title>
         <key>en</key>
         <value>Form name</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>სახელი ფორმა</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Il nome del modulo</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Ime obrazca</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Der name des Formulars</value>
-      </title>
-      <title>
         <key>am</key>
         <value>ስም ቅጽ</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>El nombre del formulario</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Vormi nimi</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Tên biểu mẫu</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Formos pavadinimas</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Veidlapas nosaukums</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Namnet på den form</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>Az űrlap nevére</value>
       </title>
       <title>
         <key>az</key>
         <value>Adı formaları</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Името на формата</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Vormi nimi</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>Le nom de la forme</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>სახელი ფორმა</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Der name des Formulars</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>Az űrlap nevére</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>Il nome del modulo</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Veidlapas nosaukums</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Formos pavadinimas</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Нэр хэлбэр</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Nazwa formularza</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Numele de forma</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Имя формы</value>
+        <key>sl</key>
+        <value>Ime obrazca</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>El nombre del formulario</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Namnet på den form</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Form adı</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Tên biểu mẫu</value>
       </title>
       <titleTextColor xsi:type="core:ColorRef">
         <color>Style.FieldSelectionBackColor</color>
@@ -513,88 +513,88 @@
       <common>true</common>
     </userVisible>
     <title>
-      <key>bg</key>
-      <value>Заглавия на прозорци и форми</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Цонхны нэр, хэлбэр</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Le titre d'une fenêtre et de la forme</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Nagłówki okna i formy</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Başlıkları, pencere ve formları</value>
+      <key>ru</key>
+      <value>Заголовки окна и формы</value>
     </title>
     <title>
       <key>en</key>
       <value>Window and form captions</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>ფანჯრის სათაური და ფორმები</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>I titoli di dialogo e di forma</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Naslov okna in obrazci</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Titel des Fensters und Formen</value>
-    </title>
-    <title>
       <key>am</key>
       <value>መስኮት እና ቅጾች</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Los títulos de las ventanas y de la forma</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Pealkirjad aknad ja vormid</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Tiêu đề cửa sổ và biểu mẫu</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Antraštės, langai ir formos</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Virsraksti logi un formas</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Fönsternamnet och former</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Az ablak címét, formái</value>
     </title>
     <title>
       <key>az</key>
       <value>Mövzular windows və formaları</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Заглавия на прозорци и форми</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Pealkirjad aknad ja vormid</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Le titre d'une fenêtre et de la forme</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>ფანჯრის სათაური და ფორმები</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Titel des Fensters und Formen</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Az ablak címét, formái</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>I titoli di dialogo e di forma</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Virsraksti logi un formas</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Antraštės, langai ir formos</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Цонхны нэр, хэлбэр</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Nagłówki okna i formy</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Titluri de ferestre și forme de</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Заголовки окна и формы</value>
+      <key>sl</key>
+      <value>Naslov okna in obrazci</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Los títulos de las ventanas y de la forma</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Fönsternamnet och former</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Başlıkları, pencere ve formları</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Tiêu đề cửa sổ và biểu mẫu</value>
     </title>
     <toolTip>
       <key>ru</key>
@@ -1303,88 +1303,88 @@
         <name>ПоказатьСкрытьВсеКолонки</name>
         <id>30</id>
         <title>
-          <key>bg</key>
-          <value>Всички колони</value>
-        </title>
-        <title>
-          <key>mn</key>
-          <value>Бүх багана</value>
-        </title>
-        <title>
-          <key>fr</key>
-          <value>Toutes les colonnes</value>
-        </title>
-        <title>
-          <key>pl</key>
-          <value>Wszystkie głośniki</value>
-        </title>
-        <title>
-          <key>tr</key>
-          <value>Tüm sütun</value>
+          <key>ru</key>
+          <value>Все колонки</value>
         </title>
         <title>
           <key>en</key>
           <value>All columns</value>
         </title>
         <title>
-          <key>ka</key>
-          <value>ყველა სვეტები</value>
-        </title>
-        <title>
-          <key>it</key>
-          <value>Tutti gli altoparlanti</value>
-        </title>
-        <title>
-          <key>sl</key>
-          <value>Vse stolpce</value>
-        </title>
-        <title>
-          <key>de</key>
-          <value>Alle Spalten</value>
-        </title>
-        <title>
           <key>am</key>
           <value>ሁሉንም ቀለሞች</value>
-        </title>
-        <title>
-          <key>es</key>
-          <value>Todos los altavoces</value>
-        </title>
-        <title>
-          <key>et</key>
-          <value>Kõik kõlarid</value>
-        </title>
-        <title>
-          <key>vi</key>
-          <value>Tất cả các cột</value>
-        </title>
-        <title>
-          <key>lt</key>
-          <value>Visi garsiakalbiai</value>
-        </title>
-        <title>
-          <key>lv</key>
-          <value>Visi skaļruņi</value>
-        </title>
-        <title>
-          <key>sv</key>
-          <value>Alla kolumner</value>
-        </title>
-        <title>
-          <key>hu</key>
-          <value>Az összes oszlop</value>
         </title>
         <title>
           <key>az</key>
           <value>Bütün natiqlər</value>
         </title>
         <title>
+          <key>bg</key>
+          <value>Всички колони</value>
+        </title>
+        <title>
+          <key>et</key>
+          <value>Kõik kõlarid</value>
+        </title>
+        <title>
+          <key>fr</key>
+          <value>Toutes les colonnes</value>
+        </title>
+        <title>
+          <key>ka</key>
+          <value>ყველა სვეტები</value>
+        </title>
+        <title>
+          <key>de</key>
+          <value>Alle Spalten</value>
+        </title>
+        <title>
+          <key>hu</key>
+          <value>Az összes oszlop</value>
+        </title>
+        <title>
+          <key>it</key>
+          <value>Tutti gli altoparlanti</value>
+        </title>
+        <title>
+          <key>lv</key>
+          <value>Visi skaļruņi</value>
+        </title>
+        <title>
+          <key>lt</key>
+          <value>Visi garsiakalbiai</value>
+        </title>
+        <title>
+          <key>mn</key>
+          <value>Бүх багана</value>
+        </title>
+        <title>
+          <key>pl</key>
+          <value>Wszystkie głośniki</value>
+        </title>
+        <title>
           <key>ro</key>
           <value>Toate coloanele</value>
         </title>
         <title>
-          <key>ru</key>
-          <value>Все колонки</value>
+          <key>sl</key>
+          <value>Vse stolpce</value>
+        </title>
+        <title>
+          <key>es</key>
+          <value>Todos los altavoces</value>
+        </title>
+        <title>
+          <key>sv</key>
+          <value>Alla kolumner</value>
+        </title>
+        <title>
+          <key>tr</key>
+          <value>Tüm sütun</value>
+        </title>
+        <title>
+          <key>vi</key>
+          <value>Tất cả các cột</value>
         </title>
         <visible>true</visible>
         <enabled>true</enabled>
@@ -1587,88 +1587,88 @@
         <common>true</common>
       </userVisible>
       <title>
-        <key>bg</key>
-        <value>Колона</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Чанга яригч</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>La colonne</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Kolumny</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Sütun</value>
+        <key>ru</key>
+        <value>Колонки</value>
       </title>
       <title>
         <key>en</key>
         <value>Columns</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>მშობლიურ</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Colonna</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Zvočniki</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Spalte</value>
-      </title>
-      <title>
         <key>am</key>
         <value>.</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>La columna</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Kõlarid</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Cột</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Kolonėlės</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Skaļruņi</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Högtalare</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>Hangszórók</value>
       </title>
       <title>
         <key>az</key>
         <value>Natiqlər</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Колона</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Kõlarid</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>La colonne</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>მშობლიურ</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Spalte</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>Hangszórók</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>Colonna</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Skaļruņi</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Kolonėlės</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Чанга яригч</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Kolumny</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Coloana</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Колонки</value>
+        <key>sl</key>
+        <value>Zvočniki</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>La columna</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Högtalare</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Sütun</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Cột</value>
       </title>
       <toolTip>
         <key>ru</key>
@@ -1733,7 +1733,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.VanessaAutomation</types>
+      <types>ExternalDataProcessor.VanessaAutomation</types>
     </valueType>
     <view>
       <common>true</common>
@@ -1762,43 +1762,11 @@
     <columns>
       <name>Имя</name>
       <title>
-        <key>bg</key>
-        <value>Име</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Нэр</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>Le nom de</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Nazwa</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Adı</value>
+        <key>ru</key>
+        <value>Имя</value>
       </title>
       <title>
         <key>en</key>
-        <value>Name</value>
-      </title>
-      <title>
-        <key>ka</key>
-        <value>დასახელება</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Il nome</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Ime</value>
-      </title>
-      <title>
-        <key>de</key>
         <value>Name</value>
       </title>
       <title>
@@ -1806,44 +1774,76 @@
         <value>ስም</value>
       </title>
       <title>
-        <key>es</key>
-        <value>El nombre de</value>
+        <key>az</key>
+        <value>Adı</value>
+      </title>
+      <title>
+        <key>bg</key>
+        <value>Име</value>
       </title>
       <title>
         <key>et</key>
         <value>Nimi</value>
       </title>
       <title>
-        <key>vi</key>
-        <value>Tên</value>
+        <key>fr</key>
+        <value>Le nom de</value>
       </title>
       <title>
-        <key>lt</key>
-        <value>Pavadinimas</value>
+        <key>ka</key>
+        <value>დასახელება</value>
       </title>
       <title>
-        <key>lv</key>
-        <value>Nosaukums</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Namn</value>
+        <key>de</key>
+        <value>Name</value>
       </title>
       <title>
         <key>hu</key>
         <value>Név</value>
       </title>
       <title>
-        <key>az</key>
-        <value>Adı</value>
+        <key>it</key>
+        <value>Il nome</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Nosaukums</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Pavadinimas</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Нэр</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Nazwa</value>
       </title>
       <title>
         <key>ro</key>
         <value>Numele</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Имя</value>
+        <key>sl</key>
+        <value>Ime</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>El nombre de</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Namn</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Adı</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Tên</value>
       </title>
       <id>1</id>
       <valueType>
@@ -1860,43 +1860,11 @@
     <columns>
       <name>Синоним</name>
       <title>
-        <key>bg</key>
+        <key>ru</key>
         <value>Синоним</value>
       </title>
       <title>
-        <key>mn</key>
-        <value>Synonym</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>Synonyme</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Synonim</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Eşanlamlı</value>
-      </title>
-      <title>
         <key>en</key>
-        <value>Synonym</value>
-      </title>
-      <title>
-        <key>ka</key>
-        <value>სინონიმი</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Sinonimo</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Sinonim</value>
-      </title>
-      <title>
-        <key>de</key>
         <value>Synonym</value>
       </title>
       <title>
@@ -1904,27 +1872,27 @@
         <value>ተመሳሳዩ</value>
       </title>
       <title>
-        <key>es</key>
-        <value>Sinónimo de</value>
+        <key>az</key>
+        <value>Sinonimi</value>
+      </title>
+      <title>
+        <key>bg</key>
+        <value>Синоним</value>
       </title>
       <title>
         <key>et</key>
         <value>Sünonüüm</value>
       </title>
       <title>
-        <key>vi</key>
-        <value>Đồng nghĩa</value>
+        <key>fr</key>
+        <value>Synonyme</value>
       </title>
       <title>
-        <key>lt</key>
-        <value>Sinonimas</value>
+        <key>ka</key>
+        <value>სინონიმი</value>
       </title>
       <title>
-        <key>lv</key>
-        <value>Sinonīms</value>
-      </title>
-      <title>
-        <key>sv</key>
+        <key>de</key>
         <value>Synonym</value>
       </title>
       <title>
@@ -1932,16 +1900,48 @@
         <value>Szinonimája</value>
       </title>
       <title>
-        <key>az</key>
-        <value>Sinonimi</value>
+        <key>it</key>
+        <value>Sinonimo</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Sinonīms</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Sinonimas</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Synonym</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Synonim</value>
       </title>
       <title>
         <key>ro</key>
         <value>Sinonim</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Синоним</value>
+        <key>sl</key>
+        <value>Sinonim</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>Sinónimo de</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Synonym</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Eşanlamlı</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Đồng nghĩa</value>
       </title>
       <id>2</id>
       <valueType>
@@ -1976,27 +1976,31 @@
     <columns>
       <name>ТипСтрока</name>
       <title>
+        <key>ru</key>
+        <value>Тип</value>
+      </title>
+      <title>
+        <key>en</key>
+        <value>Type</value>
+      </title>
+      <title>
+        <key>am</key>
+        <value>ዓይነት</value>
+      </title>
+      <title>
+        <key>az</key>
+        <value>Növü</value>
+      </title>
+      <title>
         <key>bg</key>
         <value>Тип</value>
       </title>
       <title>
-        <key>mn</key>
-        <value>Төрөл</value>
+        <key>et</key>
+        <value>Tüüp</value>
       </title>
       <title>
         <key>fr</key>
-        <value>Type</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Typ</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Türü</value>
-      </title>
-      <title>
-        <key>en</key>
         <value>Type</value>
       </title>
       <title>
@@ -2004,60 +2008,56 @@
         <value>ტიპი</value>
       </title>
       <title>
-        <key>it</key>
-        <value>Tipo</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Vrsta</value>
-      </title>
-      <title>
         <key>de</key>
         <value>Art</value>
-      </title>
-      <title>
-        <key>am</key>
-        <value>ዓይነት</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>El tipo de</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Tüüp</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Kiểu</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Tipas</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Tips</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Typ</value>
       </title>
       <title>
         <key>hu</key>
         <value>Típus</value>
       </title>
       <title>
-        <key>az</key>
-        <value>Növü</value>
+        <key>it</key>
+        <value>Tipo</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Tips</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Tipas</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Төрөл</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Typ</value>
       </title>
       <title>
         <key>ro</key>
         <value>Tip</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Тип</value>
+        <key>sl</key>
+        <value>Vrsta</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>El tipo de</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Typ</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Türü</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Kiểu</value>
       </title>
       <id>4</id>
       <valueType>
@@ -2094,88 +2094,88 @@
     <columns>
       <name>ВидСтрока</name>
       <title>
-        <key>bg</key>
+        <key>ru</key>
         <value>Вид</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Харах</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>Vue</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Widok</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Görünüm</value>
       </title>
       <title>
         <key>en</key>
         <value>View</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>კალენდარი</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Vista</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Ogled</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Blick</value>
-      </title>
-      <title>
         <key>am</key>
         <value>ዕይታ</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>Tipo de</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Vaade</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Dạng</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Rūšis</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Skats</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Visa</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>Nézet</value>
       </title>
       <title>
         <key>az</key>
         <value>Növü</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Вид</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Vaade</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>Vue</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>კალენდარი</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Blick</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>Nézet</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>Vista</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Skats</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Rūšis</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Харах</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Widok</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Vedere</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Вид</value>
+        <key>sl</key>
+        <value>Ogled</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>Tipo de</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Visa</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Görünüm</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Dạng</value>
       </title>
       <id>6</id>
       <valueType>
@@ -2192,88 +2192,88 @@
     <columns>
       <name>ТекущаяВидимость</name>
       <title>
-        <key>bg</key>
-        <value>Видимост</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Алсын хараа</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>La visibilité</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Widoczność</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Görüş</value>
+        <key>ru</key>
+        <value>Видимость</value>
       </title>
       <title>
         <key>en</key>
         <value>Visibility</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>ხილვადობას</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>La visibilità</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Prepoznavnost</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Sichtbarkeit</value>
-      </title>
-      <title>
         <key>am</key>
         <value>መገለጫዎ</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>La visibilidad</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Nähtavus</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Phần hiện hình</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Matomumas</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Redzamība</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Synlighet</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>Láthatóság</value>
       </title>
       <title>
         <key>az</key>
         <value>Görünürlüğünü</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Видимост</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Nähtavus</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>La visibilité</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>ხილვადობას</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Sichtbarkeit</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>Láthatóság</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>La visibilità</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Redzamība</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Matomumas</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Алсын хараа</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Widoczność</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Vizibilitatea</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Видимость</value>
+        <key>sl</key>
+        <value>Prepoznavnost</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>La visibilidad</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Synlighet</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Görüş</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Phần hiện hình</value>
       </title>
       <id>7</id>
       <valueType>
@@ -2289,88 +2289,88 @@
     <columns>
       <name>ТекущаяДоступность</name>
       <title>
-        <key>bg</key>
-        <value>Наличност</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Бэлэн</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>L'accessibilité</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Dostępność</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Erişilebilirlik</value>
+        <key>ru</key>
+        <value>Доступность</value>
       </title>
       <title>
         <key>en</key>
         <value>Accessibility</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>ხელმისაწვდომობა</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Accessibilità</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Razpoložljivost</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Verfügbarkeit</value>
-      </title>
-      <title>
         <key>am</key>
         <value>ተገኝነት</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>La disponibilidad de</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Kättesaadavus</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Tính khả dụng</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Prieinamumas</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Pieejamība</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Tillgänglighet</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>Rendelkezésre állás</value>
       </title>
       <title>
         <key>az</key>
         <value>Mövcudluğu</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Наличност</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Kättesaadavus</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>L'accessibilité</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>ხელმისაწვდომობა</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Verfügbarkeit</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>Rendelkezésre állás</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>Accessibilità</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Pieejamība</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Prieinamumas</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Бэлэн</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Dostępność</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Disponibilitatea</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Доступность</value>
+        <key>sl</key>
+        <value>Razpoložljivost</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>La disponibilidad de</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Tillgänglighet</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Erişilebilirlik</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Tính khả dụng</value>
       </title>
       <id>8</id>
       <valueType>
@@ -2386,88 +2386,88 @@
     <columns>
       <name>ТекущееТолькоПросмотр</name>
       <title>
-        <key>bg</key>
-        <value>Само на преглед</value>
-      </title>
-      <title>
-        <key>mn</key>
-        <value>Харах л</value>
-      </title>
-      <title>
-        <key>fr</key>
-        <value>Afficher uniquement</value>
-      </title>
-      <title>
-        <key>pl</key>
-        <value>Tylko podgląd</value>
-      </title>
-      <title>
-        <key>tr</key>
-        <value>Yalnızca görüntüle</value>
+        <key>ru</key>
+        <value>Только просмотр</value>
       </title>
       <title>
         <key>en</key>
         <value>View only</value>
       </title>
       <title>
-        <key>ka</key>
-        <value>იხილეთ მხოლოდ</value>
-      </title>
-      <title>
-        <key>it</key>
-        <value>Solo visualizzazione</value>
-      </title>
-      <title>
-        <key>sl</key>
-        <value>Samo ogled</value>
-      </title>
-      <title>
-        <key>de</key>
-        <value>Nur anzeigen</value>
-      </title>
-      <title>
         <key>am</key>
         <value>አመለካከት ብቻ</value>
-      </title>
-      <title>
-        <key>es</key>
-        <value>Solo ver</value>
-      </title>
-      <title>
-        <key>et</key>
-        <value>Ainult vaatamine</value>
-      </title>
-      <title>
-        <key>vi</key>
-        <value>Chỉ xem</value>
-      </title>
-      <title>
-        <key>lt</key>
-        <value>Tik peržiūra</value>
-      </title>
-      <title>
-        <key>lv</key>
-        <value>Tikai skatīšana</value>
-      </title>
-      <title>
-        <key>sv</key>
-        <value>Visa endast</value>
-      </title>
-      <title>
-        <key>hu</key>
-        <value>Csak megtekintés</value>
       </title>
       <title>
         <key>az</key>
         <value>Yalnız bax</value>
       </title>
       <title>
+        <key>bg</key>
+        <value>Само на преглед</value>
+      </title>
+      <title>
+        <key>et</key>
+        <value>Ainult vaatamine</value>
+      </title>
+      <title>
+        <key>fr</key>
+        <value>Afficher uniquement</value>
+      </title>
+      <title>
+        <key>ka</key>
+        <value>იხილეთ მხოლოდ</value>
+      </title>
+      <title>
+        <key>de</key>
+        <value>Nur anzeigen</value>
+      </title>
+      <title>
+        <key>hu</key>
+        <value>Csak megtekintés</value>
+      </title>
+      <title>
+        <key>it</key>
+        <value>Solo visualizzazione</value>
+      </title>
+      <title>
+        <key>lv</key>
+        <value>Tikai skatīšana</value>
+      </title>
+      <title>
+        <key>lt</key>
+        <value>Tik peržiūra</value>
+      </title>
+      <title>
+        <key>mn</key>
+        <value>Харах л</value>
+      </title>
+      <title>
+        <key>pl</key>
+        <value>Tylko podgląd</value>
+      </title>
+      <title>
         <key>ro</key>
         <value>Numai vezi</value>
       </title>
       <title>
-        <key>ru</key>
-        <value>Только просмотр</value>
+        <key>sl</key>
+        <value>Samo ogled</value>
+      </title>
+      <title>
+        <key>es</key>
+        <value>Solo ver</value>
+      </title>
+      <title>
+        <key>sv</key>
+        <value>Visa endast</value>
+      </title>
+      <title>
+        <key>tr</key>
+        <value>Yalnızca görüntüle</value>
+      </title>
+      <title>
+        <key>vi</key>
+        <value>Chỉ xem</value>
       </title>
       <id>9</id>
       <valueType>
@@ -2484,88 +2484,88 @@
   <attributes>
     <name>ПолучатьАктивныйЭлементИзTestClient</name>
     <title>
-      <key>bg</key>
-      <value>Получаване на активен елемент от TestClient</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Идэвхтэй авсан эд TestClient</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Recevoir un élément actif de TestClient</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Coraz aktywny element z TestClient</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Almak için bir aktif element, TestClient</value>
+      <key>ru</key>
+      <value>Получать активный элемент из TestClient</value>
     </title>
     <title>
       <key>en</key>
       <value>Get the active element from TestClient</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>აქტიური ნივთის TestClient</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Ricevere elemento attivo di TestClient</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Za aktivni element iz TestClient</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Erhalten das aktive Element von Testclient aus</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ጋር ንቁ ይታያል የሚሰጡዋቸውን TestClient</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Obtener el elemento activo de TestClient</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Saada aktiivne element TestClient</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Nhận phần tử hiện hoạt từ TestClient</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Gauti aktyvus elementas iš TestClient</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Saņemt aktīvais elements no TestClient</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>För att aktiva objektet från TestClient</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Aktív elemet TestClient</value>
     </title>
     <title>
       <key>az</key>
       <value>Əldə aktiv maddə TestClient</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Получаване на активен елемент от TestClient</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Saada aktiivne element TestClient</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Recevoir un élément actif de TestClient</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>აქტიური ნივთის TestClient</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Erhalten das aktive Element von Testclient aus</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Aktív elemet TestClient</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Ricevere elemento attivo di TestClient</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Saņemt aktīvais elements no TestClient</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Gauti aktyvus elementas iš TestClient</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Идэвхтэй авсан эд TestClient</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Coraz aktywny element z TestClient</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>De a primi activ element din TestClient</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Получать активный элемент из TestClient</value>
+      <key>sl</key>
+      <value>Za aktivni element iz TestClient</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Obtener el elemento activo de TestClient</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>För att aktiva objektet från TestClient</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Almak için bir aktif element, TestClient</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Nhận phần tử hiện hoạt từ TestClient</value>
     </title>
     <id>3</id>
     <valueType>
@@ -2598,88 +2598,88 @@
   <attributes>
     <name>ЗаголовокОкна</name>
     <title>
-      <key>bg</key>
-      <value>Заглавната лента на прозореца.</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Цонхны гарчиг</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Le titre de la fenêtre</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Tytuł okna</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Pencere başlığı</value>
+      <key>ru</key>
+      <value>Заголовок окна</value>
     </title>
     <title>
       <key>en</key>
       <value>Window title</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>Window title</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Il titolo della finestra</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Naslov okna</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Fenstertitel</value>
-    </title>
-    <title>
       <key>am</key>
       <value>መስኮት ርዕስ</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>El título de la ventana</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Akna pealkiri</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Tiêu đề cửa sổ</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Lango antraštė</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Virsraksts logi</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Fönstret titel</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Az ablak címe</value>
     </title>
     <title>
       <key>az</key>
       <value>Mövzu pəncərə</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Заглавната лента на прозореца.</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Akna pealkiri</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Le titre de la fenêtre</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>Window title</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Fenstertitel</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Az ablak címe</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Il titolo della finestra</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Virsraksts logi</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Lango antraštė</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Цонхны гарчиг</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Tytuł okna</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Titlul ferestrei</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Заголовок окна</value>
+      <key>sl</key>
+      <value>Naslov okna</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>El título de la ventana</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Fönstret titel</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Pencere başlığı</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Tiêu đề cửa sổ</value>
     </title>
     <id>5</id>
     <valueType>
@@ -2696,88 +2696,88 @@
   <attributes>
     <name>ИмяТекущейФормы</name>
     <title>
-      <key>bg</key>
-      <value>Името на формата</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Нэр хэлбэр</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Le nom de la forme</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Nazwa formularza</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Form adı</value>
+      <key>ru</key>
+      <value>Имя формы</value>
     </title>
     <title>
       <key>en</key>
       <value>Form name</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>სახელი ფორმა</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Il nome del modulo</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Ime obrazca</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Der name des Formulars</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ስም ቅጽ</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>El nombre del formulario</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Vormi nimi</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Tên biểu mẫu</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Formos pavadinimas</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Veidlapas nosaukums</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Namnet på den form</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Az űrlap nevére</value>
     </title>
     <title>
       <key>az</key>
       <value>Adı formaları</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Името на формата</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Vormi nimi</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Le nom de la forme</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>სახელი ფორმა</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Der name des Formulars</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Az űrlap nevére</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Il nome del modulo</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Veidlapas nosaukums</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Formos pavadinimas</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Нэр хэлбэр</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Nazwa formularza</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Numele de forma</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Имя формы</value>
+      <key>sl</key>
+      <value>Ime obrazca</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>El nombre del formulario</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Namnet på den form</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Form adı</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Tên biểu mẫu</value>
     </title>
     <id>6</id>
     <valueType>
@@ -2794,88 +2794,88 @@
   <attributes>
     <name>ЗаголовокТекущейФормы</name>
     <title>
-      <key>bg</key>
-      <value>Заглавие форми</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Толгой хэлбэрээр</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>L'en-tête de la forme</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Nagłówek formularza</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Form üstbilgisi</value>
+      <key>ru</key>
+      <value>Заголовок формы</value>
     </title>
     <title>
       <key>en</key>
       <value>Form Header</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>Header ფორმა</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Titolo del modulo</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>V glavi obrazca</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Formulartitel</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ሰዎች አናት ነው ቅጽ</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Título del formulario</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Vormi pealkiri</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Tiêu đề biểu mẫu</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Antraštė formos</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Virsraksts formas</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Huvudet i form</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>A fejléc a forma</value>
     </title>
     <title>
       <key>az</key>
       <value>Mövzu və forma</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Заглавие форми</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Vormi pealkiri</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>L'en-tête de la forme</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>Header ფორმა</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Formulartitel</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>A fejléc a forma</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Titolo del modulo</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Virsraksts formas</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Antraštė formos</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Толгой хэлбэрээр</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Nagłówek formularza</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Titlul forme de</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Заголовок формы</value>
+      <key>sl</key>
+      <value>V glavi obrazca</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Título del formulario</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Huvudet i form</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Form üstbilgisi</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Tiêu đề biểu mẫu</value>
     </title>
     <id>7</id>
     <valueType>
@@ -2945,88 +2945,88 @@
   <formCommands>
     <name>Обновить</name>
     <title>
-      <key>bg</key>
-      <value>Актуализира</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Шинэчлэх</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Actualiser</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Zaktualizować</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Yenile</value>
+      <key>ru</key>
+      <value>Обновить</value>
     </title>
     <title>
       <key>en</key>
       <value>Update</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>განახლება</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Aggiornare</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Posodobitev</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Aktualisieren</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ማዘመን</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Actualizar</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Uuendada</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Cập nhật</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Atnaujinti</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Atjaunināt</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Uppdatering</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Frissítés</value>
     </title>
     <title>
       <key>az</key>
       <value>Yenilə</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Актуализира</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Uuendada</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Actualiser</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>განახლება</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Aktualisieren</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Frissítés</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Aggiornare</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Atjaunināt</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Atnaujinti</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Шинэчлэх</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Zaktualizować</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Upgrade</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Обновить</value>
+      <key>sl</key>
+      <value>Posodobitev</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Actualizar</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Uppdatering</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Yenile</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Cập nhật</value>
     </title>
     <id>1</id>
     <toolTip>
@@ -3071,88 +3071,88 @@
   <formCommands>
     <name>ПоказатьСкрытьТип</name>
     <title>
-      <key>bg</key>
-      <value>Показване/скриване на вида на</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Show/hide төрөл</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Afficher/masquer le type</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Pokaż/ukryj typ</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Göster/gizle türü</value>
+      <key>ru</key>
+      <value>Показать/скрыть тип</value>
     </title>
     <title>
       <key>en</key>
       <value>Show / Hide Type</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>ჩვენება/დამალვა ტიპი</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Mostra/nascondi tipo</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Prikaži/skrij tip</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Anzeigen/ausblenden Art</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ለማሳየት/መደበቅ ዓይነት</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Mostrar/ocultar el tipo de</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Näita/peida tüüp</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Hiển thị / Ẩn kiểu</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Rodyti/slėpti tipas</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Rādīt/slēpt tips</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Visa/dölj typ</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Megjelenítése/elrejtése típus</value>
     </title>
     <title>
       <key>az</key>
       <value>Göstər/gizlət növü</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Показване/скриване на вида на</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Näita/peida tüüp</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Afficher/masquer le type</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>ჩვენება/დამალვა ტიპი</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Anzeigen/ausblenden Art</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Megjelenítése/elrejtése típus</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Mostra/nascondi tipo</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Rādīt/slēpt tips</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Rodyti/slėpti tipas</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Show/hide төрөл</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Pokaż/ukryj typ</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Arată/ascunde tip</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Показать/скрыть тип</value>
+      <key>sl</key>
+      <value>Prikaži/skrij tip</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Mostrar/ocultar el tipo de</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Visa/dölj typ</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Göster/gizle türü</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Hiển thị / Ẩn kiểu</value>
     </title>
     <id>3</id>
     <toolTip>
@@ -3172,88 +3172,88 @@
   <formCommands>
     <name>ПоказатьСкрытьВид</name>
     <title>
-      <key>bg</key>
-      <value>Показване/скриване на вид</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Show/hide харах</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Afficher/masquer la vue</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Pokaż/ukryj widok</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Göster/gizle görünüm</value>
+      <key>ru</key>
+      <value>Показать/скрыть вид</value>
     </title>
     <title>
       <key>en</key>
       <value>Show / Hide View</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>ჩვენება/დამალვა view</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Mostra/nascondi vista</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Prikaži/skrij prikaži</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Ein - /ausblenden Ansicht</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ለማሳየት/መደበቅ ሰዎች እይታ</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Mostrar/ocultar vista</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Näita/peida vaade</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Hiển thị / Ẩn dạng</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Rodyti/slėpti rūšis</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Rādīt/slēpt skats</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Visa/dölj-visa</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Megjelenítése/elrejtése a nézet</value>
     </title>
     <title>
       <key>az</key>
       <value>Göstər/gizlət növü</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Показване/скриване на вид</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Näita/peida vaade</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Afficher/masquer la vue</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>ჩვენება/დამალვა view</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Ein - /ausblenden Ansicht</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Megjelenítése/elrejtése a nézet</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Mostra/nascondi vista</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Rādīt/slēpt skats</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Rodyti/slėpti rūšis</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Show/hide харах</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Pokaż/ukryj widok</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Arată/ascunde de vedere</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Показать/скрыть вид</value>
+      <key>sl</key>
+      <value>Prikaži/skrij prikaži</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Mostrar/ocultar vista</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Visa/dölj-visa</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Göster/gizle görünüm</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Hiển thị / Ẩn dạng</value>
     </title>
     <id>4</id>
     <toolTip>
@@ -3273,88 +3273,88 @@
   <formCommands>
     <name>ПоказатьСкрытьДоступность</name>
     <title>
-      <key>bg</key>
-      <value>Покажи/скрий наличност</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Show/hide хүртээмжтэй</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Afficher/masquer la disponibilité</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Pokaż/ukryj dostępność</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Göster/gizle erişilebilirlik</value>
+      <key>ru</key>
+      <value>Показать/скрыть доступность</value>
     </title>
     <title>
       <key>en</key>
       <value>Show / hide accessibility</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>ჩვენება/დამალვა ხელმისაწვდომობა</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Mostra/nascondi la disponibilità</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Prikaži/skrij dostopnost</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Anzeigen/ausblenden Verfügbarkeit</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ለማሳየት/መደበቅ ተደራሽነት</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Mostrar/ocultar disponibilidad</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Näita/peida kättesaadavus</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Hiển thị / Ẩn tính khả dụng</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Rodyti/slėpti prieinamumas</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Rādīt/slēpt pieejamība</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Visa/dölj tillgänglighet</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Megjelenítése/elrejtése elérhetőség</value>
     </title>
     <title>
       <key>az</key>
       <value>Göstər/gizlət və mövcudluğu</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Покажи/скрий наличност</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Näita/peida kättesaadavus</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Afficher/masquer la disponibilité</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>ჩვენება/დამალვა ხელმისაწვდომობა</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Anzeigen/ausblenden Verfügbarkeit</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Megjelenítése/elrejtése elérhetőség</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Mostra/nascondi la disponibilità</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Rādīt/slēpt pieejamība</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Rodyti/slėpti prieinamumas</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Show/hide хүртээмжтэй</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Pokaż/ukryj dostępność</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Arată/ascunde disponibilitatea</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Показать/скрыть доступность</value>
+      <key>sl</key>
+      <value>Prikaži/skrij dostopnost</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Mostrar/ocultar disponibilidad</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Visa/dölj tillgänglighet</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Göster/gizle erişilebilirlik</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Hiển thị / Ẩn tính khả dụng</value>
     </title>
     <id>5</id>
     <toolTip>
@@ -3374,88 +3374,88 @@
   <formCommands>
     <name>ПоказатьСкрытьВидимость</name>
     <title>
-      <key>bg</key>
-      <value>Показване/скриване на видимост</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Show/hide the visibility</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Afficher/masquer la visibilité</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Pokaż/ukryj widoczność</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Göstermek/gizlemek için görünürlük</value>
+      <key>ru</key>
+      <value>Показать/скрыть видимость</value>
     </title>
     <title>
       <key>en</key>
       <value>Show / hide visibility</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>ჩვენება/დამალვა ხილვადობა</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Mostra/nascondi la visibilità</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Prikaži/skrij prepoznavnost</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Anzeigen/verbergen der Sichtbarkeit</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ለማሳየት/መደበቅ ነው መገለጫዎ</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Mostrar/ocultar la visibilidad de</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Näita/peida nähtavus</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Hiển thị / Ẩn phần hiện hình</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Rodyti/slėpti matomumas</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Rādīt/slēpt redzamību</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Visa/dölj synlighet</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Megjelenítése/elrejtése a láthatóság</value>
     </title>
     <title>
       <key>az</key>
       <value>Göstər/gizlət görünürlüğünü</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Показване/скриване на видимост</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Näita/peida nähtavus</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Afficher/masquer la visibilité</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>ჩვენება/დამალვა ხილვადობა</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Anzeigen/verbergen der Sichtbarkeit</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Megjelenítése/elrejtése a láthatóság</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Mostra/nascondi la visibilità</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Rādīt/slēpt redzamību</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Rodyti/slėpti matomumas</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Show/hide the visibility</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Pokaż/ukryj widoczność</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Arată/ascunde vizibilitatea</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Показать/скрыть видимость</value>
+      <key>sl</key>
+      <value>Prikaži/skrij prepoznavnost</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Mostrar/ocultar la visibilidad de</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Visa/dölj synlighet</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Göstermek/gizlemek için görünürlük</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Hiển thị / Ẩn phần hiện hình</value>
     </title>
     <id>6</id>
     <toolTip>
@@ -3475,88 +3475,88 @@
   <formCommands>
     <name>ПоказатьСкрытьТолькоПросмотр</name>
     <title>
-      <key>bg</key>
-      <value>Покажи/скрий само на преглед</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Show/hide харах нь зөвхөн</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Afficher/masquer l'affichage uniquement</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Pokaż/ukryj tylko podgląd</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Göster/gizle yalnızca görüntüle</value>
+      <key>ru</key>
+      <value>Показать/скрыть только просмотр</value>
     </title>
     <title>
       <key>en</key>
       <value>Show / hide view only</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>ჩვენება/დამალვა view-მხოლოდ</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Mostra/nascondi solo visualizzazione</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Prikaži/skrij prikaži samo</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Ein - /ausblenden nur anzeigen</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ለማሳየት/መደበቅ ዕይታ-ብቻ</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Mostrar/ocultar solo ver</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Näita/peida ainult vaatamine</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Hiển thị / Ẩn chỉ xem</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Rodyti/slėpti tik peržiūra</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Rādīt/slēpt tikai skatīšana</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Visa/dölj för visa-endast</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Megjelenítése/elrejtése nézet-csak</value>
     </title>
     <title>
       <key>az</key>
       <value>Göstər/gizlət yalnız bax</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Покажи/скрий само на преглед</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Näita/peida ainult vaatamine</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Afficher/masquer l'affichage uniquement</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>ჩვენება/დამალვა view-მხოლოდ</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Ein - /ausblenden nur anzeigen</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Megjelenítése/elrejtése nézet-csak</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Mostra/nascondi solo visualizzazione</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Rādīt/slēpt tikai skatīšana</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Rodyti/slėpti tik peržiūra</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Show/hide харах нь зөвхөн</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Pokaż/ukryj tylko podgląd</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Arată/ascunde doar vizualizare</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Показать/скрыть только просмотр</value>
+      <key>sl</key>
+      <value>Prikaži/skrij prikaži samo</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Mostrar/ocultar solo ver</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Visa/dölj för visa-endast</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Göster/gizle yalnızca görüntüle</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Hiển thị / Ẩn chỉ xem</value>
     </title>
     <id>7</id>
     <toolTip>

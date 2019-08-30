@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.HTML_report</types>
+      <types>ExternalDataProcessor.HTML_report</types>
     </valueType>
     <view>
       <common>true</common>

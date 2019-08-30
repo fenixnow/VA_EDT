@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ExpectedReport</types>
+      <types>ExternalDataProcessor.ExpectedReport</types>
     </valueType>
     <view>
       <common>true</common>

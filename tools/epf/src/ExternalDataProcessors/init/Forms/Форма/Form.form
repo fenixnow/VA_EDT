@@ -27,7 +27,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.init</types>
+      <types>ExternalDataProcessor.init</types>
     </valueType>
     <view>
       <common>true</common>

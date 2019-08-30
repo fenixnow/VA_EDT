@@ -27,7 +27,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Close1C</types>
+      <types>ExternalDataProcessor.Close1C</types>
     </valueType>
     <view>
       <common>true</common>

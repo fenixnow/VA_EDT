@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Issue_235_РедактированиеПоля</types>
+      <types>ExternalDataProcessor.Issue_235_РедактированиеПоля</types>
     </valueType>
     <view>
       <common>true</common>

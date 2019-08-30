@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Док_АсинхронноеВыполнениеШага</types>
+      <types>ExternalDataProcessor.Док_АсинхронноеВыполнениеШага</types>
     </valueType>
     <view>
       <common>true</common>

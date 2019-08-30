@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ЗагрузкаФичИспользуяКешEPF</types>
+      <types>ExternalDataProcessor.ЗагрузкаФичИспользуяКешEPF</types>
     </valueType>
     <view>
       <common>true</common>

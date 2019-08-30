@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ПроверкаЗначенияТаблицы</types>
+      <types>ExternalDataProcessor.ПроверкаЗначенияТаблицы</types>
     </valueType>
     <view>
       <common>true</common>

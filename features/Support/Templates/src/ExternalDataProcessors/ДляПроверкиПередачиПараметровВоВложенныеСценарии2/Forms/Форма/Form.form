@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ДляПроверкиПередачиПараметровВоВложенныеСценарии2</types>
+      <types>ExternalDataProcessor.ДляПроверкиПередачиПараметровВоВложенныеСценарии2</types>
     </valueType>
     <view>
       <common>true</common>

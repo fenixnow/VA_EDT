@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ФичаДляПроверкиМетодаШаг</types>
+      <types>ExternalDataProcessor.ФичаДляПроверкиМетодаШаг</types>
     </valueType>
     <view>
       <common>true</common>

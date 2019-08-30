@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Док_ИспользованиеТегаTreeИФичиИзВоздуха</types>
+      <types>ExternalDataProcessor.Док_ИспользованиеТегаTreeИФичиИзВоздуха</types>
     </valueType>
     <view>
       <common>true</common>

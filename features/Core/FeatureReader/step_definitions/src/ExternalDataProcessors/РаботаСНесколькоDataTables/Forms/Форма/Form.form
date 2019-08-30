@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.РаботаСНесколькоDataTables</types>
+      <types>ExternalDataProcessor.РаботаСНесколькоDataTables</types>
     </valueType>
     <view>
       <common>true</common>

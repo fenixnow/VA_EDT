@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.ОбработкаОшибкиВПроцедуреПередНачаломСценария</types>
+      <types>ExternalDataProcessor.ОбработкаОшибкиВПроцедуреПередНачаломСценария</types>
     </valueType>
     <view>
       <common>true</common>

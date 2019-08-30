@@ -23,7 +23,7 @@
     <name>Объект</name>
     <id>1</id>
     <valueType>
-      <types>ExternalDataProcessorObject.Markdown_report</types>
+      <types>ExternalDataProcessor.Markdown_report</types>
     </valueType>
     <view>
       <common>true</common>
