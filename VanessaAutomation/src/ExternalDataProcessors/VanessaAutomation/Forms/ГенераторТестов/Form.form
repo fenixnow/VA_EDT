@@ -13,6 +13,10 @@
       <items xsi:type="form:Table">
         <name>ДеревоОбъектовМетаданных</name>
         <id>1</id>
+        <title>
+          <key>ru</key>
+          <value>Дерево объектов метаданных</value>
+        </title>
         <visible>true</visible>
         <enabled>true</enabled>
         <userVisible>
@@ -125,7 +129,6 @@
               <width>2</width>
               <autoMaxWidth>true</autoMaxWidth>
               <autoMaxHeight>true</autoMaxHeight>
-              <fileDragMode>AsFileRef</fileDragMode>
             </extInfo>
           </items>
           <items xsi:type="form:FormField">
@@ -189,7 +192,7 @@
           </userVisible>
           <title>
             <key>ru</key>
-            <value>Дерево объектов группа1</value>
+            <value>Дерево объектов группа 1</value>
           </title>
           <extendedTooltip>
             <name>ДеревоОбъектовГруппа1РасширеннаяПодсказка</name>
@@ -762,6 +765,10 @@
             <userVisible>
               <common>true</common>
             </userVisible>
+            <title>
+              <key>ru</key>
+              <value>Дерево объектов контекстное меню группа по умолчанию</value>
+            </title>
             <extendedTooltip>
               <name>ДеревоОбъектовКонтекстноеМенюГруппаПоУмолчаниюРасширеннаяПодсказка</name>
               <id>79</id>
@@ -802,7 +809,6 @@
         <initialTreeView>ExpandTopLevel</initialTreeView>
         <horizontalStretch>true</horizontalStretch>
         <verticalStretch>true</verticalStretch>
-        <fileDragMode>AsFileRef</fileDragMode>
       </items>
       <visible>true</visible>
       <enabled>true</enabled>
@@ -958,7 +964,7 @@
     </userVisible>
     <title>
       <key>ru</key>
-      <value>Группа страницы</value>
+      <value>Страницы</value>
     </title>
     <extendedTooltip>
       <name>ГруппаСтраницыРасширеннаяПодсказка</name>
@@ -1300,10 +1306,6 @@
         <key>ru</key>
         <value>Форма группа настройки</value>
       </title>
-      <toolTip>
-        <key>ru</key>
-        <value>Форма группа настройки</value>
-      </toolTip>
       <extendedTooltip>
         <name>ФормаГруппаНастройкиРасширеннаяПодсказка</name>
         <id>111</id>
@@ -1343,10 +1345,6 @@
   <showCloseButton>true</showCloseButton>
   <attributes>
     <name>Объект</name>
-    <title>
-      <key>ru</key>
-      <value>Объект</value>
-    </title>
     <id>1</id>
     <valueType>
       <types>ExternalDataProcessor.VanessaAutomation</types>
@@ -1395,10 +1393,6 @@
     </columns>
     <columns>
       <name>Имя</name>
-      <title>
-        <key>ru</key>
-        <value>Имя</value>
-      </title>
       <id>6</id>
       <valueType>
         <types>String</types>
@@ -1430,10 +1424,6 @@
     </columns>
     <columns>
       <name>ПолноеИмя</name>
-      <title>
-        <key>ru</key>
-        <value>Полное имя</value>
-      </title>
       <id>8</id>
       <valueType>
         <types>String</types>
@@ -1448,10 +1438,6 @@
     </columns>
     <columns>
       <name>ЭтоОбъектМетаданных</name>
-      <title>
-        <key>ru</key>
-        <value>Это объект метаданных</value>
-      </title>
       <id>9</id>
       <valueType>
         <types>Boolean</types>
@@ -1570,10 +1556,6 @@
     </columns>
     <columns>
       <name>Тип</name>
-      <title>
-        <key>ru</key>
-        <value>Тип</value>
-      </title>
       <id>19</id>
       <valueType>
         <types>String</types>
@@ -1589,10 +1571,6 @@
   </attributes>
   <attributes>
     <name>ЭлементыПодсистемСКоманднымИнтерфейсом</name>
-    <title>
-      <key>ru</key>
-      <value>Элементы подсистем с командным интерфейсом</value>
-    </title>
     <id>5</id>
     <valueType>
       <types>ValueList</types>

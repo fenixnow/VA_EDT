@@ -1,88 +1,88 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <form:Form xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:form="http://g5.1c.ru/v8/dt/form">
   <title>
-    <key>bg</key>
-    <value>Детайли грешки</value>
-  </title>
-  <title>
-    <key>mn</key>
-    <value>Алдаа дэлгэрэнгүй</value>
-  </title>
-  <title>
-    <key>fr</key>
-    <value>Détails de l'erreur</value>
-  </title>
-  <title>
-    <key>pl</key>
-    <value>Szczegóły błędu</value>
-  </title>
-  <title>
-    <key>tr</key>
-    <value>Hata detayları</value>
+    <key>ru</key>
+    <value>Детали ошибки</value>
   </title>
   <title>
     <key>en</key>
     <value>Error details</value>
   </title>
   <title>
-    <key>ka</key>
-    <value>შეცდომა დეტალები</value>
-  </title>
-  <title>
-    <key>it</key>
-    <value>Dettagli errore</value>
-  </title>
-  <title>
-    <key>sl</key>
-    <value>Napaka podrobnosti</value>
-  </title>
-  <title>
-    <key>de</key>
-    <value>Details Fehler</value>
-  </title>
-  <title>
     <key>am</key>
     <value>ስህተት ዝርዝሮች</value>
-  </title>
-  <title>
-    <key>es</key>
-    <value>Detalles del error</value>
-  </title>
-  <title>
-    <key>et</key>
-    <value>Osad vead</value>
-  </title>
-  <title>
-    <key>vi</key>
-    <value>Chi tiết lỗi</value>
-  </title>
-  <title>
-    <key>lt</key>
-    <value>Detales klaidas</value>
-  </title>
-  <title>
-    <key>lv</key>
-    <value>Detaļas kļūdas</value>
-  </title>
-  <title>
-    <key>sv</key>
-    <value>Information om fel</value>
-  </title>
-  <title>
-    <key>hu</key>
-    <value>Hiba részletek</value>
   </title>
   <title>
     <key>az</key>
     <value>Ətraflı səhvlər</value>
   </title>
   <title>
+    <key>bg</key>
+    <value>Детайли грешки</value>
+  </title>
+  <title>
+    <key>et</key>
+    <value>Osad vead</value>
+  </title>
+  <title>
+    <key>fr</key>
+    <value>Détails de l'erreur</value>
+  </title>
+  <title>
+    <key>ka</key>
+    <value>შეცდომა დეტალები</value>
+  </title>
+  <title>
+    <key>de</key>
+    <value>Details Fehler</value>
+  </title>
+  <title>
+    <key>hu</key>
+    <value>Hiba részletek</value>
+  </title>
+  <title>
+    <key>it</key>
+    <value>Dettagli errore</value>
+  </title>
+  <title>
+    <key>lv</key>
+    <value>Detaļas kļūdas</value>
+  </title>
+  <title>
+    <key>lt</key>
+    <value>Detales klaidas</value>
+  </title>
+  <title>
+    <key>mn</key>
+    <value>Алдаа дэлгэрэнгүй</value>
+  </title>
+  <title>
+    <key>pl</key>
+    <value>Szczegóły błędu</value>
+  </title>
+  <title>
     <key>ro</key>
     <value>Detaliile de eroare</value>
   </title>
   <title>
-    <key>ru</key>
-    <value>Детали ошибки</value>
+    <key>sl</key>
+    <value>Napaka podrobnosti</value>
+  </title>
+  <title>
+    <key>es</key>
+    <value>Detalles del error</value>
+  </title>
+  <title>
+    <key>sv</key>
+    <value>Information om fel</value>
+  </title>
+  <title>
+    <key>tr</key>
+    <value>Hata detayları</value>
+  </title>
+  <title>
+    <key>vi</key>
+    <value>Chi tiết lỗi</value>
   </title>
   <items xsi:type="form:FormField">
     <name>ТолькоТекстЯчеек</name>
@@ -375,88 +375,88 @@
   <attributes>
     <name>ТолькоТекстЯчеек</name>
     <title>
-      <key>bg</key>
-      <value>Само текста на клетки</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Зөвхөн текст эс</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Seulement le texte des cellules</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Tylko tekst komórek</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Sadece metin bir hücre</value>
+      <key>ru</key>
+      <value>Только текст ячеек</value>
     </title>
     <title>
       <key>en</key>
       <value>Cell text only</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>მხოლოდ ტექსტის უჯრედების</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Solo il testo delle celle</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Samo besedilo celice</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Nur der Text der Zellen</value>
-    </title>
-    <title>
       <key>am</key>
       <value>ብቻ ጽሑፍ ነው ሕዋሳት</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Sólo el texto de las celdas</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Ainult lahtrite tekst</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>Chỉ nội dung của ô</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Tik tekstas langelių</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Tikai teksts, šūnu</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Endast texten i cellerna</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Csak a szöveg a sejtek</value>
     </title>
     <title>
       <key>az</key>
       <value>Yalnız mətn hüceyrələri</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Само текста на клетки</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Ainult lahtrite tekst</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Seulement le texte des cellules</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>მხოლოდ ტექსტის უჯრედების</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Nur der Text der Zellen</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Csak a szöveg a sejtek</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Solo il testo delle celle</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Tikai teksts, šūnu</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Tik tekstas langelių</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Зөвхөн текст эс</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Tylko tekst komórek</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Doar textul de celule</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Только текст ячеек</value>
+      <key>sl</key>
+      <value>Samo besedilo celice</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Sólo el texto de las celdas</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Endast texten i cellerna</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Sadece metin bir hücre</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>Chỉ nội dung của ô</value>
     </title>
     <id>7</id>
     <valueType>
@@ -496,88 +496,88 @@
   <formCommands>
     <name>СравнитьТаблицы</name>
     <title>
-      <key>bg</key>
-      <value>Сравни таблица</value>
-    </title>
-    <title>
-      <key>mn</key>
-      <value>Харьцуулж хүснэгт</value>
-    </title>
-    <title>
-      <key>fr</key>
-      <value>Comparer les tables</value>
-    </title>
-    <title>
-      <key>pl</key>
-      <value>Porównać tabele</value>
-    </title>
-    <title>
-      <key>tr</key>
-      <value>Fiyat karşılaştır tablo</value>
+      <key>ru</key>
+      <value>Сравнить таблицы</value>
     </title>
     <title>
       <key>en</key>
       <value>Compare tables</value>
     </title>
     <title>
-      <key>ka</key>
-      <value>შეადარეთ მაგიდა</value>
-    </title>
-    <title>
-      <key>it</key>
-      <value>Confronta tabella</value>
-    </title>
-    <title>
-      <key>sl</key>
-      <value>Primerjaj tabelo</value>
-    </title>
-    <title>
-      <key>de</key>
-      <value>Tabellen vergleichen</value>
-    </title>
-    <title>
       <key>am</key>
       <value>መገለጫዎ.</value>
-    </title>
-    <title>
-      <key>es</key>
-      <value>Comparar la tabla</value>
-    </title>
-    <title>
-      <key>et</key>
-      <value>Võrrelda tabelis</value>
-    </title>
-    <title>
-      <key>vi</key>
-      <value>So sánh bảng</value>
-    </title>
-    <title>
-      <key>lt</key>
-      <value>Palyginti lentelės</value>
-    </title>
-    <title>
-      <key>lv</key>
-      <value>Salīdzināt tabulas</value>
-    </title>
-    <title>
-      <key>sv</key>
-      <value>Jämför tabell</value>
-    </title>
-    <title>
-      <key>hu</key>
-      <value>Hasonlítsa össze táblázat</value>
     </title>
     <title>
       <key>az</key>
       <value>Müqayisə masa</value>
     </title>
     <title>
+      <key>bg</key>
+      <value>Сравни таблица</value>
+    </title>
+    <title>
+      <key>et</key>
+      <value>Võrrelda tabelis</value>
+    </title>
+    <title>
+      <key>fr</key>
+      <value>Comparer les tables</value>
+    </title>
+    <title>
+      <key>ka</key>
+      <value>შეადარეთ მაგიდა</value>
+    </title>
+    <title>
+      <key>de</key>
+      <value>Tabellen vergleichen</value>
+    </title>
+    <title>
+      <key>hu</key>
+      <value>Hasonlítsa össze táblázat</value>
+    </title>
+    <title>
+      <key>it</key>
+      <value>Confronta tabella</value>
+    </title>
+    <title>
+      <key>lv</key>
+      <value>Salīdzināt tabulas</value>
+    </title>
+    <title>
+      <key>lt</key>
+      <value>Palyginti lentelės</value>
+    </title>
+    <title>
+      <key>mn</key>
+      <value>Харьцуулж хүснэгт</value>
+    </title>
+    <title>
+      <key>pl</key>
+      <value>Porównać tabele</value>
+    </title>
+    <title>
       <key>ro</key>
       <value>Compara tabel</value>
     </title>
     <title>
-      <key>ru</key>
-      <value>Сравнить таблицы</value>
+      <key>sl</key>
+      <value>Primerjaj tabelo</value>
+    </title>
+    <title>
+      <key>es</key>
+      <value>Comparar la tabla</value>
+    </title>
+    <title>
+      <key>sv</key>
+      <value>Jämför tabell</value>
+    </title>
+    <title>
+      <key>tr</key>
+      <value>Fiyat karşılaştır tablo</value>
+    </title>
+    <title>
+      <key>vi</key>
+      <value>So sánh bảng</value>
     </title>
     <id>1</id>
     <toolTip>
